@@ -25,12 +25,3 @@ for i in range(5):
     x.v = i
 print(x.v, x.logs)
 # 4 [(0, '17:12:32'), (1, '17:12:32'), (2, '17:12:32'), (3, '17:12:32'), (4, '17:12:32')]
-
-
-for item in inventory.items:
-    $iname = item.name + "_s.png"
-    imagebutton auto iname action Call("ShowDescription", item)
-
-label ShowDescription(item=None):
-    t "[item.description]"
-    $ renpy.pause(hard=True)
