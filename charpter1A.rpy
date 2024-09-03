@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-01 21:52
+# TODO: Translation updated at 2024-07-01 21:52
 
 # game/charpter1A.rpy:4
 translate en_US charpter1A_1_583e2441:
@@ -1790,7 +1790,7 @@ translate en_US charpter1A_5_62786c6a:
 # game/charpter1A.rpy:668
 translate en_US charpter1A_5_a70294cd:
     # bill "嗯，这里面最重要的线索就是“以太”反应，我可以很确定这个案件有异邦人的参与。"
-    bill "Yes, the most important clue here is the 'aether' reaction. I'm quite sure that a foreign entity is involved in this case."
+    bill "Yes, the most important clue here is the 'aether' reaction. I'm quite sure that a strangent entity is involved in this case."
 
 # game/charpter1A.rpy:669
 translate en_US charpter1A_5_f4d7f35e:
@@ -1800,17 +1800,17 @@ translate en_US charpter1A_5_f4d7f35e:
 # game/charpter1A.rpy:670
 translate en_US charpter1A_5_f8d236a2:
     # you "也就是说，犯人是有能力的异邦人。"
-    you "So, the culprit must be a capable foreign entity."
+    you "So, the culprit must be a capable strangent entity."
 
 # game/charpter1A.rpy:672
 translate en_US charpter1A_5_ec8d1dc9:
     # bill "没错，[name]，你可以试试推理一下这位异邦人的能力。"
-    bill "That's right, [name]. Try to deduce the capabilities of this foreign entity."
+    bill "That's right, [name]. Try to deduce the capabilities of this strangent entity."
 
 # game/charpter1A.rpy:673
 translate en_US charpter1A_5_95c42b99:
     # "推理出这个异邦人的能力吗？该从什么地方开始推呢？"
-    "Deduce the capabilities of this foreign entity? Where should I start?"
+    "Deduce the capabilities of this strangent entity? Where should I start?"
 
 # game/charpter1A.rpy:680
 translate en_US charpter1A_choice1_20a170e2:
@@ -1905,7 +1905,7 @@ translate en_US charpter1A_6_372e03d2:
 # game/charpter1A.rpy:714
 translate en_US charpter1A_6_282dbb30:
     # you "我猜，这位异邦人一开始应该是通过变形成会飞的小生物从窗户进入了书房，然后在书房监控的盲区范围里再次变形为大型生物来破坏摄像头。"
-    you "I guess this foreign entity initially entered the study by transforming into a flying creature through the window. Then, in the blind spot of the study's camera, it transformed again into a large creature to damage the camera."
+    you "I guess this strangent entity initially entered the study by transforming into a flying creature through the window. Then, in the blind spot of the study's camera, it transformed again into a large creature to damage the camera."
 
 # game/charpter1A.rpy:715
 translate en_US charpter1A_6_4c6e3ceb:
@@ -2095,2020 +2095,1689 @@ translate en_US strings:
 
 # game/charpter1A.rpy:804
 translate en_US charpter1A_6_f8b8bae7:
-
     # "那只乌鸦长得不咋样，手里的货倒是挺值钱。"
-    ""
+    "That crow doesn't look great, but the goods he's holding are quite valuable."
 
 # game/charpter1A.rpy:805
 translate en_US charpter1A_6_d8e8d96a:
-
     # "还没过两天就有冤大头出价了！"
-    ""
+    "It hasn't even been two days and there's already a sucker making an offer!"
 
 # game/charpter1A.rpy:806
 translate en_US charpter1A_6_e0c712a4:
-
     # "我躲在巷子深处的阴影中，悄悄观察着外面的路人。"
-    ""
+    "I hide in the shadows of the alley, quietly observing the passersby outside."
 
 # game/charpter1A.rpy:807
 translate en_US charpter1A_6_ec67ee71:
-
     # "老黑那家伙说买家是个愣头青，不知道是谁家的富二代。"
-    ""
+    "Old Black said the buyer is a greenhorn, some rich second-generation kid."
 
 # game/charpter1A.rpy:808
 translate en_US charpter1A_6_d007e0d6:
-
     # "也不清楚是怎么联系上黑驴的。"
-    ""
+    "It's also unclear how he got in touch with Black Donkey."
 
 # game/charpter1A.rpy:809
 translate en_US charpter1A_6_949b8a82:
-
     # "呵……脏活累活都是老子干的。黑驴那家伙也就动动嘴皮子，还想要和老子四六分？"
-    ""
+    "Hmph... I do all the dirty work. Black Donkey just talks and wants to split 60/40 with me?"
 
 # game/charpter1A.rpy:810
 translate en_US charpter1A_6_214b655b:
-
     # "呸！"
-    ""
+    "Pah!"
 
 # game/charpter1A.rpy:811
 translate en_US charpter1A_6_fd75ad5f:
-
     # "不过没关系，哪怕要被分走四成，剩下的也够老子变成有钱人了！"
-    ""
+    "But that's okay, even if I have to give away 40\%, what's left will be enough to make me rich!"
 
 # game/charpter1A.rpy:812
 translate en_US charpter1A_6_59220487:
-
     # "警察那边应该还在找那只臭老鼠吧？"
-    ""
+    "The police should still be looking for that dirty rat, right?"
 
 # game/charpter1A.rpy:813
 translate en_US charpter1A_6_36e33c24:
-
     # "管置局那边也没什么声响。"
-    ""
+    "There's no noise from the bureau either."
 
 # game/charpter1A.rpy:814
 translate en_US charpter1A_6_2b0eb6fd:
-
     # "哼哼，他们肯定没料到，老子的能力已经升级了，再也不是那种只能变色的鸡肋能力了！"
-    ""
+    "Heh, they surely didn't expect that my ability has leveled up; it's no longer just a useless color-changing power!"
 
 # game/charpter1A.rpy:815
 translate en_US charpter1A_6_b75e246b:
-
     # "这个人手一直插在裤兜，眼神飘忽，也没有明确的目的地，是个扒手啊。"
-    ""
+    "This person keeps his hands in his pockets, his gaze is wandering, and he has no clear destination. He's a pickpocket."
 
 # game/charpter1A.rpy:816
 translate en_US charpter1A_6_d36f319f:
-
     # "这个人左右手都有刀疤，腰带里别着指虎，是哪个帮派的打手？"
-    ""
+    "This person has scars on both hands and a knuckle duster in his belt. Which gang is he a thug for?"
 
 # game/charpter1A.rpy:817
 translate en_US charpter1A_6_a6009493:
-
     # "还是没有看到买家……"
-    ""
+    "Still haven't seen the buyer..."
 
 # game/charpter1A.rpy:818
 translate en_US charpter1A_6_5e6818ae:
-
     # "耐心一点，时间还没到。"
-    ""
+    "Be patient; the time hasn't come yet."
 
 # game/charpter1A.rpy:819
 translate en_US charpter1A_6_16bb9af3:
-
     # "我深呼吸，身形向阴影里挪动，右手不自觉地攥紧了衣兜里的布袋。"
-    ""
+    "I take a deep breath, move my body into the shadows, and my right hand unconsciously tightens around the cloth bag in my pocket."
 
 # game/charpter1A.rpy:820
 translate en_US charpter1A_6_37994577:
-
     # "这里面可是我发财的关键。"
-    ""
+    "This is the key to my fortune."
 
 # game/charpter1A.rpy:821
 translate en_US charpter1A_6_9eae8963:
-
     # "该死，胳膊又开始疼了！"
-    ""
+    "Damn it, my arm is starting to hurt again!"
 
 # game/charpter1A.rpy:822
 translate en_US charpter1A_6_629d51b4:
-
     # "那家伙说的没错，我需要时间适应自己的能力。"
-    ""
+    "That guy was right; I need time to adapt to my ability."
 
 # game/charpter1A.rpy:823
 translate en_US charpter1A_6_1d74e0ff:
-
     # "不过就算是现在这种程度，那些蠢货也不可能找到我的！"
-    ""
+    "But even at this level, those idiots won't be able to find me!"
 
 # game/charpter1A.rpy:824
 translate en_US charpter1A_6_637afe78:
-
     # "我一边偷瞄着外面，一边畅想着有钱要去做什么。"
-    ""
+    "I keep glancing outside while dreaming about what to do with the money."
 
 # game/charpter1A.rpy:828
 translate en_US charpter1A_6_886dc031:
-
     # "唔！有人靠近了！"
-    ""
+    "Hmm! Someone's approaching!"
 
 # game/charpter1A.rpy:829
 translate en_US charpter1A_6_a2936250:
-
     # "一个东张西望的人类，还有一头看起来有些蠢的棕熊？"
-    ""
+    "A human who's looking around, and a brown bear that looks a bit foolish?"
 
 # game/charpter1A.rpy:830
 translate en_US charpter1A_6_e5cb9502:
-
     # "那头棕熊提着一个大到夸张的手提箱。"
-    ""
+    "The brown bear is carrying an exaggeratedly large suitcase."
 
 # game/charpter1A.rpy:831
 translate en_US charpter1A_6_4bc3c187:
-
     # "这就是买家？！这是生怕别人不知道里面是钱吗？！"
-    ""
+    "Is this the buyer?! Is he afraid someone won't know there's money inside?!"
 
 # game/charpter1A.rpy:832
 translate en_US charpter1A_6_03463237:
-
     # "就这样提着箱子在这种地方逛，感觉要不了一天就会被吞得一干二净，连根骨头都剩不下！"
-    ""
+    "Carrying a suitcase like that around here, he'll probably be swallowed up in no time, not leaving even a bone behind!"
 
 # game/charpter1A.rpy:833
 translate en_US charpter1A_6_0ba6969b:
-
     # "哼，不过那也和我没什么关系了！"
-    ""
+    "Hmph, but that's none of my concern now!"
 
 # game/charpter1A.rpy:834
 translate en_US charpter1A_6_8e0d517a:
-
     # "只要这一单搞定，老子也能开豪车、住别墅了！再也不用待在这个鬼地方了！"
-    ""
+    "As long as this deal goes through, I can drive a luxury car and live in a villa! No more staying in this hellhole!"
 
 # game/charpter1A.rpy:835
 translate en_US charpter1A_6_34f1fb62:
-
     # "我莫名地有些烦躁起来。"
-    ""
+    "I feel inexplicably irritated."
 
 # game/charpter1A.rpy:839
 translate en_US charpter1A_6_b8e908ad:
-
     # "那两个蠢货往约好的垃圾箱走去了。"
-    ""
+    "Those two idiots are heading towards the agreed-upon trash can."
 
 # game/charpter1A.rpy:840
 translate en_US charpter1A_6_9be71939:
-
     # "那头棕熊应该就是公子哥了，他身上的衣服我认得，可都是些牌子货。"
-    ""
+    "That brown bear is probably the rich kid; I recognize his clothes—they're all branded."
 
 # game/charpter1A.rpy:841
 translate en_US charpter1A_6_0a38ad30:
-
     # "至于那个人类，可能是公子哥的保镖吧，毕竟人类是异邦人的可能性是百分百。"
-    ""
+    "As for the human, he might be the rich kid's bodyguard, since the likelihood of humans being strangents is 100\%."
 
 # game/charpter1A.rpy:842
 translate en_US charpter1A_6_8f3f33dc:
-
     # "既然能当保镖，那当然不会是什么只能变戏法的能力。"
-    ""
+    "Since he can be a bodyguard, his abilities must be more than just a parlor trick."
 
 # game/charpter1A.rpy:843
 translate en_US charpter1A_6_e4919404:
-
     # "不过没关系，老子现在的能力可不输给任何人。"
-    ""
+    "But that's okay; my abilities are unmatched now."
+
 
 # game/charpter1A.rpy:844
 translate en_US charpter1A_6_442941ca:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:845
 translate en_US charpter1A_6_b5f8a3a8:
-
     # "该死！这两个蠢货怎么一直不进来就在那里杵着！"
-    ""
+    "Damn it! Why are these two idiots just standing there and not coming in!"
 
 # game/charpter1A.rpy:846
 translate en_US charpter1A_6_b916b1da:
-
     # "难道他们不知道已经有很多人在盯着他们了吗？！"
-    ""
+    "Don't they know that a lot of people are watching them already?!"
 
 # game/charpter1A.rpy:847
 translate en_US charpter1A_6_56627362:
-
     # "他们怎么样我管不着，但他们身上的钱老子可不会让出去！"
-    ""
+    "I can't control what they do, but I won't let the money on them slip away!"
 
 # game/charpter1A.rpy:848
 translate en_US charpter1A_6_f99d53b1:
-
     # chameleon "进来！别在那里杵着！"
-    chameleon ""
+    chameleon "Come in! Don't just stand there!"
 
 # game/charpter1A.rpy:850
 translate en_US charpter1A_6_cceb1dd9:
-
     # "我暴躁地从藏身的阴影里走了出来，示意这两个蠢货往巷子里走。"
-    ""
+    "I irritably stepped out from the hiding shadows and gestured for these two idiots to move into the alley."
 
 # game/charpter1A.rpy:851
 translate en_US charpter1A_6_af9cd283:
-
     # "那头棕熊被我的出现吓了一跳，果然是公子哥，个子那么大胆子却那么小。"
-    ""
+    "The brown bear was startled by my appearance. As expected of a rich kid—big in stature but small in courage."
 
 # game/charpter1A.rpy:852
 translate en_US charpter1A_6_105239fa:
-
     # "呵，算了，赶快完成交易，管那么多干什么。"
-    ""
+    "Heh, forget it. Let's just get this transaction over with and not worry about anything else."
 
 # game/charpter1A.rpy:856
 translate en_US charpter1A_6_dfc75d39:
-
     # chameleon "把钱丢过来。"
-    chameleon ""
+    chameleon "Throw the money over here."
 
 # game/charpter1A.rpy:857
 translate en_US charpter1A_6_98a2a3b8:
-
     # human "我们要先看看货。"
-    human ""
+    human "We need to see the goods first."
 
 # game/charpter1A.rpy:858
 translate en_US charpter1A_6_8c6b172d:
-
     # "真麻烦！"
-    ""
+    "What a hassle!"
 
 # game/charpter1A.rpy:859
 translate en_US charpter1A_6_d8c50860:
-
     # "我从衣兜里掏出一个小布袋。"
-    ""
+    "I pulled out a small cloth bag from my pocket."
 
 # game/charpter1A.rpy:861
 translate en_US charpter1A_6_be062350:
-
     # chameleon "叫那个公子哥过来！你就站在那里别动！"
-    chameleon ""
+    chameleon "Call that rich kid over here! You just stay there and don't move!"
 
 # game/charpter1A.rpy:862
 translate en_US charpter1A_6_2ad1bf53:
-
     # "还不知道那家伙有什么能力，还是不要让他靠近好了。"
-    ""
+    "I don't know what abilities that guy has, so it's better not to let him get too close."
 
 # game/charpter1A.rpy:863
 translate en_US charpter1A_6_c0ceebea:
-
     # "至于这个公子哥，虽然块头大，但估计就是个中看不中用的草包。"
-    ""
+    "As for this rich kid, although he's big, he's probably just a pretty face with no real use."
 
 # game/charpter1A.rpy:865
 translate en_US charpter1A_6_4920aed6:
-
     # "人类和棕熊对视了一眼，那头棕熊有些犹豫地提着手提箱向我走了过来。"
-    ""
+    "The human and the brown bear exchanged glances, and the brown bear hesitantly walked towards me with the suitcase."
 
 # game/charpter1A.rpy:867
 translate en_US charpter1A_6_1385bfe6:
-
     # "我无视了那头棕熊，一直注视着那个人类。"
-    ""
+    "I ignored the brown bear and kept my eyes on the human."
 
 # game/charpter1A.rpy:870
 translate en_US charpter1A_6_eddc212a:
-
     # "很好，那个人类什么也没干，就在那里站着，看来他们没想耍花招。"
-    ""
+    "Good, the human didn't do anything and just stood there. It seems they don't plan to pull any tricks."
 
 # game/charpter1A.rpy:873
 translate en_US charpter1A_6_4aa21be6:
-
     # "只要等前面的这头棕熊再多走几步，老子就能成为有钱人了！"
-    ""
+    "As long as this brown bear takes a few more steps forward, I'll become rich!"
 
 # game/charpter1A.rpy:876
 translate en_US charpter1A_6_442941ca_1:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:877
 translate en_US charpter1A_6_c84f0acf:
-
     # "我突然有种不好的预感。"
-    ""
+    "I suddenly have a bad feeling."
 
 # game/charpter1A.rpy:878
 translate en_US charpter1A_6_41165537:
-
     # "总感觉哪里不太对劲，有什么东西被我忽视了——"
-    ""
+    "I feel like something is off, like I've overlooked something—"
 
 # game/charpter1A.rpy:879
 translate en_US charpter1A_6_35c60c69:
-
     # "——那个人类手上带的手表我是不是在哪里看过？"
-    ""
+    "—Have I seen that watch on the human's wrist somewhere before?"
 
 # game/charpter1A.rpy:880
 translate en_US charpter1A_6_b8c2b018:
-
     # "随着那头棕熊的靠近，我的预感不断告诉我这次交易有问题。"
-    ""
+    "As the brown bear approached, my instincts kept telling me that this transaction had problems."
 
 # game/charpter1A.rpy:881
 translate en_US charpter1A_6_4899a065:
-
     # "上次看到那块表是在哪里来着？"
-    ""
+    "Where did I see that watch last time?"
 
 # game/charpter1A.rpy:884
 translate en_US charpter1A_6_19f81e24:
-
     # savvy "你问那块表是什么？"
-    savvy ""
+    savvy "Are you asking what that watch is?"
 
 # game/charpter1A.rpy:885
 translate en_US charpter1A_6_67465ec8:
-
     # savvy "我只能告诉你，你不会想要的。"
-    savvy ""
+    savvy "I can only tell you that you wouldn't want it."
 
 # game/charpter1A.rpy:886
 translate en_US charpter1A_6_a69ed5d6:
-
     # savvy "它是一个项圈哦，是专给管置局养的小狗带的。"
-    savvy ""
+    savvy "It's a collar, specifically for the little dogs kept by the bureau."
 
 # game/charpter1A.rpy:888
 translate en_US charpter1A_6_1004708b:
-
     # "是在那个研究所里！"
-    ""
+    "It was at that research institute!"
 
 # game/charpter1A.rpy:889
 translate en_US charpter1A_6_12a12681:
-
     # "他们是管置局的条子！"
-    ""
+    "They are from the bureau!"
 
 # game/charpter1A.rpy:898
 translate en_US charpter1A_6_a37a5ce6:
-
     # rowsson "喂？好久没联系了啊，挺好的？"
-    rowsson ""
+    rowsson "Hey? Long time no contact. How's it going?"
 
 # game/charpter1A.rpy:900
 translate en_US charpter1A_6_85407af6:
-
     # rowsson "啊，没啥大事，就跟你打听个人呗。"
-    rowsson ""
+    rowsson "Ah, nothing much. Just asking about someone."
 
 # game/charpter1A.rpy:902
 translate en_US charpter1A_6_3e31f559:
-
     # rowsson "没有，没有，只是个小蟊贼，帮我牵个线呗。"
-    rowsson ""
+    rowsson "No, no, it's just a small-time thief. Help me make a connection."
+
 
 # game/charpter1A.rpy:903
 translate en_US charpter1A_6_442941ca_2:
 
     # "……"
-    ""
+    "……"
 
 # game/charpter1A.rpy:904
 translate en_US charpter1A_6_b175eddf:
-
     # you "比尔，局长他是在跟谁通话啊？"
-    you ""
+    you "Bill, who is the Director talking to?"
 
 # game/charpter1A.rpy:906
 translate en_US charpter1A_6_3615b08e:
-
     # bill "……别问，也别跟其他人说。"
-    bill ""
+    bill "… Don't ask, and don't tell anyone else."
 
 # game/charpter1A.rpy:907
 translate en_US charpter1A_6_2eed92d3:
-
     # "比尔怎么了？语气这么严肃。"
-    ""
+    "What's wrong with Bill? Why is his tone so serious?"
 
 # game/charpter1A.rpy:908
 translate en_US charpter1A_6_e666c7a6:
-
     # "看来对面的身份不简单啊。"
-    ""
+    "It seems the person on the other side is not ordinary."
 
 # game/charpter1A.rpy:910
 translate en_US charpter1A_6_99fe389e:
-
     # rowsson "没别的事儿了，下回有空请你顿酒，回见回见。"
-    rowsson ""
+    rowsson "Nothing else, I'll buy you a drink next time. See you."
 
 # game/charpter1A.rpy:914
 translate en_US charpter1A_6_fc194c40:
-
     # rowsson "搞定了！"
-    rowsson ""
+    rowsson "It's done!"
 
 # game/charpter1A.rpy:915
 translate en_US charpter1A_6_db7dcb55:
-
     # you "局长，你知道那个小偷在哪里了？"
-    you ""
+    you "Director, do you know where that thief is?"
 
 # game/charpter1A.rpy:917
 translate en_US charpter1A_6_4df3408b:
-
     # rowsson "老子是谁？老子可是管置局的局长，有什么我搞不定的。"
-    rowsson ""
+    rowsson "Who am I? I'm the Director of the bureau. There's nothing I can't handle."
 
 # game/charpter1A.rpy:919
 translate en_US charpter1A_6_ab333ee2:
-
     # bill "地点是在“阴沟”那边？"
-    bill ""
+    bill "The location is over at the 'sewer'?"
 
 # game/charpter1A.rpy:921
 translate en_US charpter1A_6_c182bb21:
-
     # rowsson "没错，怎么？你小子害怕了？"
-    rowsson ""
+    rowsson "That's right. What, are you scared?"
 
 # game/charpter1A.rpy:922
 translate en_US charpter1A_6_8f6f49b0:
-
     # "罗威逊挑了挑眉。"
-    ""
+    "Rowsson raised an eyebrow."
 
 # game/charpter1A.rpy:924
 translate en_US charpter1A_6_4db30f8c:
-
     # bill "没。"
-    bill ""
+    bill "No."
 
 # game/charpter1A.rpy:925
 translate en_US charpter1A_6_bc8aa7ec:
-
     # you "你们说的“阴沟”是什么？"
-    you ""
+    you "What's the 'sewer' you're talking about?"
 
 # game/charpter1A.rpy:927
 translate en_US charpter1A_6_5df6cdb2:
-
     # rowsson "垃圾扎堆的地方罢了。"
-    rowsson ""
+    rowsson "It's just a place full of trash."
 
 # game/charpter1A.rpy:928
 translate en_US charpter1A_6_b7c9decb:
-
     # rowsson "里面干啥的都有，全都是一群烂到没救的家伙。"
-    rowsson ""
+    rowsson "It's a place where all sorts of activities go on, full of hopeless scoundrels."
 
 # game/charpter1A.rpy:930
 translate en_US charpter1A_6_ca675997:
-
     # rowsson "像你和布莱恩那傻小子随随便便过去的话，我们可能就要在地下拍卖场再见到你们咯。"
-    rowsson ""
+    rowsson "If you and that fool Brian just go over there casually, we might see you again at the underground auction."
 
 # game/charpter1A.rpy:931
 translate en_US charpter1A_6_c312e19a:
-
     # "什么？！"
-    ""
+    "What?!"
 
 # game/charpter1A.rpy:933
 translate en_US charpter1A_6_73c06e40:
-
     # bill "……他开玩笑的，而且有我在，不会有事。"
-    bill ""
+    bill "… He's joking. And with me here, nothing will go wrong."
 
 # game/charpter1A.rpy:935
 translate en_US charpter1A_6_38fb76cf:
-
     # rowsson "不，这次行动你还有别的安排，就他们两个去。"
-    rowsson ""
+    rowsson "No, this operation is for you two only. The rest of the arrangements are up to you."
 
 # game/charpter1A.rpy:937
 translate en_US charpter1A_6_d51d104b:
-
     # "等一下？！就我和布莱恩去？"
-    ""
+    "Wait a minute?! Just Brian and me?"
 
 # game/charpter1A.rpy:938
 translate en_US charpter1A_6_6f019588:
-
     # you "局长……这是不是有点草率了。"
-    you ""
+    you "Director… isn't this a bit hasty?"
 
 # game/charpter1A.rpy:939
 translate en_US charpter1A_6_dbf4a0b5:
-
     # you "我今天才刚刚接触这些，就把这种工作交给我。"
-    you ""
+    you "I just started dealing with this today, and you're giving me this kind of work?"
 
 # game/charpter1A.rpy:940
 translate en_US charpter1A_6_514a7c37:
 
     # you "会不会有点太危险了？"
-    you ""
+    you "Isn't it a bit too dangerous?"
 
 # game/charpter1A.rpy:942
 translate en_US charpter1A_6_49fe9928:
-
     # rowsson "怕个球，当初你在船上乱跑的那股劲儿呢？"
-    rowsson ""
+    rowsson "What are you afraid of? What happened to the guts you had running around on the ship?"
 
 # game/charpter1A.rpy:944
 translate en_US charpter1A_6_d934c6f9:
-
     # rowsson "放心吧，关于那个小偷的抓捕计划老子已经给你们想好了。"
-    rowsson ""
+    rowsson "Don't worry, I've already worked out the plan for catching that thief."
 
 # game/charpter1A.rpy:946
 translate en_US charpter1A_6_647c480b:
-
     # rowsson "一个小蟊贼而已，翻不起什么大浪，尽管按照计划行动。"
-    rowsson ""
+    rowsson "It's just a small-time thief, not a big deal. Just follow the plan."
 
 # game/charpter1A.rpy:948
 translate en_US charpter1A_6_63790f77:
-
     # rowsson "布莱恩这小子虽然憨，但好歹也是管理局正式训练出来的，安全问题你不用担心。"
-    rowsson ""
+    rowsson "Though Brian is a bit foolish, he's properly trained by the bureau. You don't need to worry about safety."
 
 # game/charpter1A.rpy:949
 translate en_US charpter1A_6_3cb074dd:
-
     # "我张开口，还想要说些什么。"
-    ""
+    "I opened my mouth, wanting to say something more."
 
 # game/charpter1A.rpy:951
 translate en_US charpter1A_6_4471d9d5:
-
     # rowsson "行了，别给老子废话了，出去找布莱恩熟悉熟悉计划，我和比尔还有点事要说。"
-    rowsson ""
+    rowsson "Alright, stop wasting time. Go find Brian and get familiar with the plan. Bill and I have some matters to discuss."
 
 # game/charpter1A.rpy:952
 translate en_US charpter1A_6_be7eeebd:
-
     # "我第一次在罗威逊的身上感受到了所谓的威严……"
-    ""
+    "For the first time, I felt the so-called authority from Rowsson…"
 
 # game/charpter1A.rpy:953
 translate en_US charpter1A_6_56813dbf:
-
     # "我有些害怕地瞄向比尔。"
-    ""
+    "I looked at Bill with some fear."
 
 # game/charpter1A.rpy:955
 translate en_US charpter1A_6_2008f158:
-
     # bill "……去吧。"
-    bill ""
+    bill "… Go ahead."
 
 # game/charpter1A.rpy:956
 translate en_US charpter1A_6_442941ca_3:
-
     # "……"
-    ""
+    "…"
 
 # game/charpter1A.rpy:958
 translate en_US charpter1A_6_4d409519:
-
     # bill "你吓到他了。"
-    bill ""
+    bill "You scared him."
+
 
 # game/charpter1A.rpy:960
 translate en_US charpter1A_6_068d0065:
-
     # rowsson "你和他关系不错嘛，这么快就开始护着了？"
-    rowsson ""
+    rowsson "You have a good relationship with him, huh? Already protecting him so soon?"
 
 # game/charpter1A.rpy:962
 translate en_US charpter1A_6_8fb95b1a:
-
     # bill "所以你要我做什么？"
-    bill ""
+    bill "So what do you want me to do?"
 
 # game/charpter1A.rpy:964
 translate en_US charpter1A_6_d4c81142:
-
     # rowsson "当然是布置真正的抓捕计划，你不会真指望那俩小崽子成事吧？"
-    rowsson ""
+    rowsson "Of course, set up a real capture plan. You don't really expect those two kids to get the job done, do you?"
 
 # game/charpter1A.rpy:966
 translate en_US charpter1A_6_b1303cad:
-
     # bill "……你既然知道那为什么还要叫他们去？"
-    bill ""
+    bill "… Since you know that, why send them?"
 
 # game/charpter1A.rpy:967
 translate en_US charpter1A_6_748658bb:
-
     # rowsson "一呢，是想锻炼锻炼布莱恩那个傻小子，二则是想试试[name]的成色。"
-    rowsson ""
+    rowsson "Firstly, it's to train that foolish Brian. Secondly, it's to test [name]'s abilities."
 
 # game/charpter1A.rpy:969
 translate en_US charpter1A_6_cec76027:
-
     # rowsson "这小子我挺看好的，抛开他的推理天赋不谈。"
-    rowsson ""
+    rowsson "I have a good impression of this kid, not to mention his reasoning talent."
 
 # game/charpter1A.rpy:970
 translate en_US charpter1A_6_f41ea6ff:
-
     # rowsson "当时在船上那么复杂危险的环境，他依然果断做出判断并执行，这个素质可不是什么人都有的。"
-    rowsson ""
+    rowsson "Even in the complex and dangerous environment on the ship, he still made decisive judgments and acted. Not everyone has that quality."
 
 # game/charpter1A.rpy:972
 translate en_US charpter1A_6_c2127118:
-
     # bill "……唉。"
-    bill ""
+    bill "… Sigh."
 
 # game/charpter1A.rpy:980
 translate en_US charpter1A_6_1eca8a97:
-
     # chameleon "进巷子！别在那里杵着！"
-    chameleon ""
+    chameleon "Get into the alley! Don't just stand there!"
 
 # game/charpter1A.rpy:982
 translate en_US charpter1A_6_9d429308:
-
     # "一个沙哑声线的男声从巷子阴影里传出。"
-    ""
+    "A hoarse male voice came from the shadow of the alley."
 
 # game/charpter1A.rpy:986
 translate en_US charpter1A_6_8c9fa885:
-
     # "一只头戴兜帽，手揣在兜里的变色龙缓缓从巷子里的阴影里走了出来。"
-    ""
+    "A chameleon with a hood and hands in pockets slowly emerged from the shadows of the alley."
 
 # game/charpter1A.rpy:987
 translate en_US charpter1A_6_7b6f0eb8:
-
     # "他离我和布莱恩仅仅只有几米的距离，但在那之前，我和布莱恩完全没有意识到那里有人在。"
-    ""
+    "He was only a few meters away from Brian and me, but before that, neither Brian nor I had noticed anyone there."
 
 # game/charpter1A.rpy:988
 translate en_US charpter1A_6_e71d4d43:
-
     # "这家伙就是那个拥有变形能力的小偷？竟然是只变色龙……"
-    ""
+    "So this guy is the shape-shifting thief? A chameleon, huh…"
 
 # game/charpter1A.rpy:990
 translate en_US charpter1A_6_887c4ac7:
-
     # "我有些紧张地咽了咽口水，脑海里回想起局长的话语。"
-    ""
+    "I nervously swallowed and recalled the Director's words."
 
 # game/charpter1A.rpy:993
 translate en_US charpter1A_6_610c696f:
-
     # rowsson "听好了！你俩和目标接触的时候，一定要提出一手交钱一手拿货。"
-    rowsson ""
+    rowsson "Listen carefully! When you two contact the target, make sure to use 'pay and get the goods'."
 
 # game/charpter1A.rpy:994
 translate en_US charpter1A_6_df1ea0c6:
-
     # rowsson "对面那个蟊贼脑子没出问题的话，肯定会盯着你而不是布莱恩。"
-    rowsson ""
+    rowsson "If that scoundrel isn't out of his mind, he'll definitely focus on you instead of Brian."
 
 # game/charpter1A.rpy:996
 translate en_US charpter1A_6_a1301c30:
-
     # rowsson "哈？为什么？"
-    rowsson ""
+    rowsson "Huh? Why?"
 
 # game/charpter1A.rpy:998
 translate en_US charpter1A_6_c48a9c25:
-
     # rowsson "废话，你是个人类、异邦人！"
-    rowsson ""
+    rowsson "Nonsense, you're a human and a strangent!"
 
 # game/charpter1A.rpy:1000
 translate en_US charpter1A_6_ef41ca77:
-
     # rowsson "那个时候你就做好表情管理，别让他看出来你怂了。"
-    rowsson ""
+    rowsson "At that time, manage your expression well. Don't let him see that you're scared."
 
 # game/charpter1A.rpy:1002
 translate en_US charpter1A_6_4de04b98:
-
     # rowsson "然后布莱恩靠近，动手，目标拿下，收工！"
-    rowsson ""
+    rowsson "Then Brian moves in, makes the grab, and the target is caught. Done!"
 
 # game/charpter1A.rpy:1009
 translate en_US charpter1A_6_c79ebe30:
-
     # "希望我刚刚没有露出什么马脚。"
-    ""
+    "I hope I didn't give anything away just now."
 
 # game/charpter1A.rpy:1010
 translate en_US charpter1A_6_442941ca_4:
-
     # "……"
-    ""
+    "…"
 
 # game/charpter1A.rpy:1011
 translate en_US charpter1A_6_7b2be6e9:
-
     # chameleon "把钱丢过来！"
-    chameleon ""
+    chameleon "Throw the money over here!"
 
 # game/charpter1A.rpy:1012
 translate en_US charpter1A_6_b2eb3d56:
-
     # you "我们要先看看货。"
-    you ""
+    you "We need to see the goods first."
 
 # game/charpter1A.rpy:1013
 translate en_US charpter1A_6_ef4f8811:
-
     # "早知道我就去问问局长更具体的问法了！"
-    ""
+    "I should have asked the Director for a more specific way to ask!"
 
 # game/charpter1A.rpy:1014
 translate en_US charpter1A_6_bb573284:
-
     # "我现在脑子里一片空白，只记得电视上黑道接头的台词。"
-    ""
+    "My mind went blank, and all I could remember were lines from gangster meetings on TV."
 
 # game/charpter1A.rpy:1015
 translate en_US charpter1A_6_be062350_1:
-
     # chameleon "叫那个公子哥过来！你就站在那里别动！"
-    chameleon ""
+    chameleon "Call that young master over here! You just stand there and don't move!"
 
 # game/charpter1A.rpy:1016
 translate en_US charpter1A_6_11072c52:
-
     # "变色龙指着我说。"
-    ""
+    "The chameleon pointed at me and said."
 
 # game/charpter1A.rpy:1017
 translate en_US charpter1A_6_390edb6e:
-
     # "那公子哥应该是指布莱恩？"
-    ""
+    "The 'young master' must be referring to Brian?"
 
 # game/charpter1A.rpy:1018
 translate en_US charpter1A_6_1bb3361d:
-
     # "不过怎么感觉他好像有点烦躁……但目前为止都还在局长的计划里！"
-    ""
+    "But why does he seem a bit agitated…? So far, everything is still going according to the Director's plan!"
 
 # game/charpter1A.rpy:1020
 translate en_US charpter1A_6_71e23f55:
-
     # "我看向布莱恩，刚好他也看向了我。"
-    ""
+    "I looked at Brian, and he happened to look at me as well."
 
 # game/charpter1A.rpy:1021
 translate en_US charpter1A_6_2495ab99:
-
     # "我轻轻点了下头，暗示照计划行动。"
-    ""
+    "I nodded slightly, signaling to follow the plan."
 
 # game/charpter1A.rpy:1024
 translate en_US charpter1A_6_8c32a869:
-
     # "随后布莱恩就提着手提箱慢慢地向那只变色龙走去。"
-    ""
+    "Then Brian slowly walked towards the chameleon with the briefcase."
 
 # game/charpter1A.rpy:1025
 translate en_US charpter1A_6_7b4ab206:
-
     # "接下来就是关键了！我绝对不能被怀疑——"
-    ""
+    "Next is the crucial part! I must not be suspected—"
 
 # game/charpter1A.rpy:1028
 translate en_US charpter1A_6_948e1a90:
-
     # "就和局长说的一样，那家伙只会把注意力放在我的身上"
-    ""
+    "Just as the director said, that guy will only focus on me."
 
 # game/charpter1A.rpy:1029
 translate en_US charpter1A_6_0651e5f0:
-
     # "这种被审视的感觉让我心里发毛，但我的心跳却跳得飞快，注意力也无比集中，感觉有用不完的力气。"
-    ""
+    "The feeling of being scrutinized gives me chills, but my heart is racing, my attention is intensely focused, and I feel an endless amount of energy."
 
 # game/charpter1A.rpy:1030
 translate en_US charpter1A_6_18ce35a4:
-
     # "好紧张……但却感觉了一种兴奋和专注？！"
-    ""
+    "So nervous... but I feel a kind of excitement and focus?!"
 
 # game/charpter1A.rpy:1033
 translate en_US charpter1A_6_ae547920:
-
     # "很好！布莱恩已经距离他很近了！"
-    ""
+    "Great! Brian is already very close to him!"
 
 # game/charpter1A.rpy:1034
 translate en_US charpter1A_6_4b577ade:
-
     # "只要布莱恩再靠近几步，就能一举拿下他了！"
-    ""
+    "As long as Brian gets a few steps closer, he can take him down in one go!"
 
 # game/charpter1A.rpy:1036
 translate en_US charpter1A_6_68aed192:
-
     # "不对！那家伙的表情怎么那么奇怪？！"
-    ""
+    "No! Why does that guy's expression look so strange?!"
 
 # game/charpter1A.rpy:1037
 translate en_US charpter1A_6_1f0dcd2a:
-
     # "该死！我到底是哪一步做错了！"
-    ""
+    "Damn it! What step did I get wrong!"
 
 # game/charpter1A.rpy:1038
 translate en_US charpter1A_6_e1cd6f2f:
-
     # you "布莱恩！抓住他！"
-    you ""
+    you "Brian! Catch him!"
 
 # game/charpter1A.rpy:1042
 translate en_US charpter1A_6_df76c964:
-
     # "我猛地冲布莱恩吼了一声，同时向变色龙跑去！"
-    ""
+    "I suddenly shouted at Brian and ran towards the chameleon!"
 
 # game/charpter1A.rpy:1043
 translate en_US charpter1A_6_7e7b86b5:
-
     # "可惜那只变色龙比我的动作还要快一步！"
-    ""
+    "Unfortunately, the chameleon was a step ahead of my movements!"
 
 # game/charpter1A.rpy:1045
 translate en_US charpter1A_6_08452285:
-
     # "他一把推倒了堆放在一旁的废弃货架，转身向身后跑去。"
-    ""
+    "He pushed over a pile of discarded shelves and turned to run back."
 
 # game/charpter1A.rpy:1046
 translate en_US charpter1A_6_dd77d56e:
-
     # "生着铁锈的货架连同上面堆放的杂物哗啦啦地砸向了我！"
-    ""
+    "The rusty shelves and the debris on them crashed down on me with a clatter!"
 
 # game/charpter1A.rpy:1048
 translate en_US charpter1A_6_8b497779:
-
     # "我忍不住闭上了双眼。"
-    ""
+    "I couldn't help but close my eyes."
 
 # game/charpter1A.rpy:1049
 translate en_US charpter1A_6_ffa37df3:
-
     # "这下一定很痛！"
-    ""
+    "This is going to hurt a lot!"
 
 # game/charpter1A.rpy:1051
 translate en_US charpter1A_6_ef781b50:
-
     # "但疼痛并没如按我预想的那样袭来。"
-    ""
+    "But the pain didn't come as I expected."
 
 # game/charpter1A.rpy:1058
 translate en_US charpter1A_6_84ab5b9e:
-
     # "我睁开双眼，身前是布莱恩的身影。"
-    ""
+    "I opened my eyes to see Brian's figure in front of me."
 
 # game/charpter1A.rpy:1059
 translate en_US charpter1A_6_021cbaf9:
-
     # "货架和杂物砸在了他的身上。"
-    ""
+    "The shelves and debris had fallen on him."
 
 # game/charpter1A.rpy:1060
 translate en_US charpter1A_6_e0b41e38:
-
     # you "布莱恩！"
-    you ""
+    you "Brian!"
 
 # game/charpter1A.rpy:1067
 translate en_US charpter1A_6_4f32f16c:
-
     # brian "我没事！"
-    brian ""
+    brian "I'm fine!"
 
 # game/charpter1A.rpy:1069
 translate en_US charpter1A_6_dd9c682d:
-
     # brian "先去追那个小偷！我马上就跟上！"
-    brian ""
+    brian "Go after that thief first! I'll catch up soon!"
 
 # game/charpter1A.rpy:1070
 translate en_US charpter1A_6_7651aedc:
-
     # "我不知道我这个时候是怎么了！"
-    ""
+    "I don't know what's wrong with me right now!"
 
 # game/charpter1A.rpy:1071
 translate en_US charpter1A_6_f05acd46:
-
     # "明明自己在来到这个世界前只是一个普通的大学生。"
-    ""
+    "I was just an ordinary college student before coming to this world."
 
 # game/charpter1A.rpy:1072
 translate en_US charpter1A_6_e1ca7c19:
-
     # "而对面光是从体型上就比我大一圈，更别提可能还有武器。"
-    ""
+    "And the opponent is bigger than me just by size, not to mention he might have a weapon."
 
 # game/charpter1A.rpy:1073
 translate en_US charpter1A_6_ef2fe5d4:
-
     # "但我还是点了点头，没有丝毫犹豫地向那个正在逐渐变小的身影追了上去！"
-    ""
+    "But I nodded and, without hesitation, chased after the shrinking figure!"
 
 # game/charpter1A.rpy:1079
 translate en_US charpter1A_6_qte_b121dc79:
-
     # "眼前突然出现了一条宽近两米的陷坑，不跳过去的话估计会摔到骨折。"
-    ""
+    "Suddenly, a pit about two meters wide appeared in front of me; if I didn't jump over it, I'd probably break a bone."
 
 # game/charpter1A.rpy:1084
 translate en_US charpter1A_6_qte_81236d82:
-
     # "啊！好痛！"
-    ""
+    "Ah! That hurts!"
 
 # game/charpter1A.rpy:1085
 translate en_US charpter1A_6_qte_c501595c:
-
     # "这下糟了！"
-    ""
+    "This is bad!"
 
 # game/charpter1A.rpy:1086
 translate en_US charpter1A_6_qte_442941ca:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:1093
 translate en_US charpter1A_6_qte_291f4918:
-
     # "那家伙拐进另一条巷子了！"
-    ""
+    "That guy turned into another alley!"
 
 # game/charpter1A.rpy:1096
 translate en_US charpter1A_6_qte_ca872550:
-
     # "他跑去哪了！"
-    ""
+    "Where did he run off to!"
 
 # game/charpter1A.rpy:1097
 translate en_US charpter1A_6_qte_98abea6b:
-
     # "糟了！跟丢了！"
-    ""
+    "Damn it! Lost him!"
 
 # game/charpter1A.rpy:1098
 translate en_US charpter1A_6_qte_442941ca_1:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:1104
 translate en_US charpter1A_6_qte_ae452813:
-
     # "怎么有个垃圾箱堵在路中间！"
-    ""
+    "How is there a trash can blocking the road!"
 
 # game/charpter1A.rpy:1108
 translate en_US charpter1A_6_qte_81236d82_1:
-
     # "啊！好痛！"
-    ""
+    "Ah! That hurts!"
 
 # game/charpter1A.rpy:1109
 translate en_US charpter1A_6_qte_33b95ad5:
-
     # "糟了！让他跑了！"
-    ""
+    "Damn it! He got away!"
 
 # game/charpter1A.rpy:1110
 translate en_US charpter1A_6_qte_442941ca_2:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:1119
 translate en_US charpter1A_6_qte_0049bdfc:
-
     # "那个混蛋跑得没有我想象中的那么快，虽然他对这里的地形很熟悉，但只要我不跟丢很快就能追上他！"
-    ""
+    "That bastard isn't running as fast as I imagined. Although he's familiar with the terrain, as long as I don't lose sight of him, I can catch up quickly!"
 
 # game/charpter1A.rpy:1121
 translate en_US charpter1A_6_qte_b16eb90b:
-
     # "狗娘养的条子！"
-    ""
+    "Son of a bitch cop!"
 
 # game/charpter1A.rpy:1122
 translate en_US charpter1A_6_qte_c1684393:
-
     # "集中注意力！集中注意力！"
-    ""
+    "Focus! Focus!"
 
 # game/charpter1A.rpy:1123
 translate en_US charpter1A_6_qte_5f1cf31d:
-
     # "该死！根本集中不了！这样下去会被追到的！"
-    ""
+    "Damn it! I can't focus at all! At this rate, I'll get caught!"
 
 # game/charpter1A.rpy:1124
 translate en_US charpter1A_6_qte_f5717a3f:
-
     # "后面这个狗娘养的也不知道有什么能力！"
-    ""
+    "I don't know what kind of abilities that son of a bitch behind me has!"
 
 # game/charpter1A.rpy:1125
 translate en_US charpter1A_6_qte_515609b2:
-
     # "只能放弃这些东西了吗？我不甘心啊！"
-    ""
+    "Do I have to give up these things? I'm not willing to!"
 
 # game/charpter1A.rpy:1126
 translate en_US charpter1A_6_qte_546b1e24:
-
     # "我死死地攥紧了手里的布袋！"
-    ""
+    "I clenched the cloth bag tightly in my hand!"
 
 # game/charpter1A.rpy:1127
 translate en_US charpter1A_6_qte_8ab8fabd:
-
     # "最终还是狠下心来，转过身，将布袋里的宝石向那个人类全抛了出去！"
-    ""
+    "In the end, I steeled myself, turned around, and threw all the gems from the bag at that human!"
 
 # game/charpter1A.rpy:1128
 translate en_US charpter1A_6_qte_cde0eaea:
-
     # "老子记住你了！我们没完了！"
-    ""
+    "I'll remember you! We're not done!"
 
 # game/charpter1A.rpy:1129
 translate en_US charpter1A_6_qte_d1407d15:
-
     # "我盯住那个人类的相貌，把它烙进脑海后，便头也不回地继续狂奔！"
-    ""
+    "I stared at the human's appearance, burned it into my memory, and then continued running without looking back!"
 
 # game/charpter1A.rpy:1132
 translate en_US charpter1A_6_qte_e2ba99a4:
-
     # "什么东西？！"
-    ""
+    "What is that?!"
 
 # game/charpter1A.rpy:1138
 translate en_US charpter1A_6_qte_21cf7ac5:
-
     # "阳光透过晶莹剔透的宝石，折射到了我脸上，这让我不由自主地闭上了双眼。"
-    ""
+    "Sunlight refracted through the sparkling gems onto my face, causing me to involuntarily close my eyes."
 
 # game/charpter1A.rpy:1139
 translate en_US charpter1A_6_qte_8d1ee6ce:
-
     # "这是…失窃的宝石？"
-    ""
+    "Is this... the stolen gem?"
 
 # game/charpter1A.rpy:1140
 translate en_US charpter1A_6_qte_1c8b0142:
-
     # "贵重的宝石犹如随处可见的石块被丢弃在地上。"
-    ""
+    "The precious gem was discarded on the ground like a common stone."
 
 # game/charpter1A.rpy:1141
 translate en_US charpter1A_6_qte_4fd7f871:
-
     # "工作几辈子都买不起的宝石……"
-    ""
+    "Gems that would take a lifetime of work to afford..."
 
 # game/charpter1A.rpy:1142
 translate en_US charpter1A_6_qte_201180b8:
-
     # "这些宝石如果弄丢了的话，比尔他们应该会很难办吧……"
-    ""
+    "If these gems were lost, it would be really difficult for Bill and the others..."
 
 # game/charpter1A.rpy:1143
 translate en_US charpter1A_6_qte_fc7f3eec:
-
     # "我闪过这样的想法。"
-    ""
+    "I brushed aside such thoughts."
 
 # game/charpter1A.rpy:1144
 translate en_US charpter1A_6_qte_fc5b8686:
-
     # "我本能地减缓了脚步看向地面这些宝石。"
-    ""
+    "Instinctively, I slowed my pace to look at the gems on the ground."
 
 # game/charpter1A.rpy:1146
 translate en_US charpter1A_6_qte_7f2e16be:
-
     # "但等我抬起头的时候，却发现原本还在前方的变色龙已经不见了踪影。"
-    ""
+    "But when I looked up, I found that the chameleon, which was ahead, had disappeared."
 
 # game/charpter1A.rpy:1147
 translate en_US charpter1A_6_qte_55ed7390:
-
     # "是趁我分神的时候，钻进暗道了吗？！"
-    ""
+    "Did he use my distraction to slip into a hidden passage?!"
 
 # game/charpter1A.rpy:1152
 translate en_US charpter1A_6_qte_f1d7f6ea:
-
     # you "不行，找不到他，他究竟躲在哪里？也没看到他留下什么踪迹……"
-    you ""
+    you "No, I can't find him. Where could he be hiding? I didn't see any traces left..."
 
 # game/charpter1A.rpy:1153
 translate en_US charpter1A_6_qte_af96f897:
-
     # brian "现在怎么办？"
-    brian ""
+    brian "What do we do now?"
 
 # game/charpter1A.rpy:1154
 translate en_US charpter1A_6_qte_d8389470:
-
     # you "我不知道……"
-    you ""
+    you "I don't know..."
 
 # game/charpter1A.rpy:1157
 translate en_US charpter1A_6_qte_e37244ea:
-
     # brian "都怪我，如果我更快点过来，说不定现在已经抓到他了……"
-    brian ""
+    brian "It's all my fault. If I had gotten here faster, maybe we would have caught him by now..."
 
 # game/charpter1A.rpy:1158
 translate en_US charpter1A_6_qte_429825d5:
-
     # you "不怪你，如果不是你挡着，我一定已经遭殃了吧……"
-    you ""
+    you "It's not your fault. If you hadn't been there, I would have been in trouble..."
 
 # game/charpter1A.rpy:1159
 translate en_US charpter1A_6_qte_bfb14fb8:
-
     # you "只是我不知道要怎么和比尔他们说……"
-    you ""
+    you "I just don't know how to explain this to Bill and the others..."
 
 # game/charpter1A.rpy:1166
 translate en_US charpter1A_6_qte_36d296fc:
-
     # "我有些无奈地闭上了眼睛，脑海里浮现出比尔和局长失望的表情。"
-    ""
+    "I closed my eyes with some resignation, the disappointed faces of Bill and the director appearing in my mind."
 
 # game/charpter1A.rpy:1170
 translate en_US charpter1A_6_qte_f9a38805:
-
     # calm "你已经做得很好了。"
-    calm ""
+    calm "You've done very well."
 
 # game/charpter1A.rpy:1171
 translate en_US charpter1A_6_qte_d5ebf1d3:
-
     # "熟悉的声音从我的身后传来，一只大手放在了我的头顶。"
-    ""
+    "A familiar voice came from behind me, and a large hand rested on top of my head."
 
 # game/charpter1A.rpy:1172
 translate en_US charpter1A_6_qte_19bac644:
-
     # "我能感觉到手上的肉垫，还有一股若有若无的柠檬香气钻入了我的鼻腔。"
-    ""
+    "I could feel the pads of the hand, and a faint lemon scent drifted into my nose."
 
 # game/charpter1A.rpy:1173
 translate en_US charpter1A_6_qte_caa7c8f9:
-
     # "比尔？"
-    ""
+    "Bill?"
 
 # game/charpter1A.rpy:1176
 translate en_US charpter1A_6_qte_a6ca5aa3:
-
     # "我睁开眼睛，果然是他！"
-    ""
+    "I opened my eyes, and sure enough, it was him!"
 
 # game/charpter1A.rpy:1177
 translate en_US charpter1A_6_qte_f95caad4:
-
     # "比尔正站在我的面前。"
-    ""
+    "Bill was standing right in front of me."
 
 # game/charpter1A.rpy:1184
 translate en_US charpter1A_6_qte_c750d475:
-
     # brian "比尔大哥你怎么会在这里？你不是去执行老大的紧急任务了吗？"
-    brian ""
+    brian "Big Brother Bill, what are you doing here? Didn't you go to carry out the boss's urgent mission?"
 
 # game/charpter1A.rpy:1186
 translate en_US charpter1A_6_qte_f6b741eb:
-
     # bill "那是假的，局长他觉得你们两个人可能会出岔子，所以安排了我当后援。"
-    bill ""
+    bill "That was a lie. The director thought you two might run into trouble, so he arranged for me to provide backup."
 
 # game/charpter1A.rpy:1188
 translate en_US charpter1A_6_qte_2bc394c0:
-
     # bill "管置局的其他人已经在周围出口形成了包围圈。"
-    bill ""
+    bill "Others from the Department have already formed a perimeter around the exits."
 
 # game/charpter1A.rpy:1190
 translate en_US charpter1A_6_qte_865bea0f:
-
     # you "所以你一直都在？"
-    you ""
+    you "So you've been here all along?"
 
 # game/charpter1A.rpy:1191
 translate en_US charpter1A_6_qte_f57a1940:
-
     # bill "嗯。"
-    bill ""
+    bill "Yes."
 
 # game/charpter1A.rpy:1192
 translate en_US charpter1A_6_qte_db61d565:
-
     # "我回想起自己的一系列拙劣的表演和台词，恨不得找个地洞钻进去。"
-    ""
+    "I recalled my series of clumsy performances and lines, wishing I could find a hole to hide in."
 
 # game/charpter1A.rpy:1194
 translate en_US charpter1A_6_qte_ff2b6236:
-
     # bill "你做得很好了。"
-    bill ""
+    bill "You did very well."
 
 # game/charpter1A.rpy:1195
 translate en_US charpter1A_6_qte_722b855f:
-
     # "比尔轻轻揉了揉我的头，放下了手。"
-    ""
+    "Bill gently ruffled my hair before withdrawing his hand."
 
 # game/charpter1A.rpy:1198
 translate en_US charpter1A_6_qte_3d587a39:
-
     # bill "现在该收尾了。"
-    bill ""
+    bill "It's time to wrap things up."
 
 # game/charpter1A.rpy:1199
 translate en_US charpter1A_6_qte_da76ab4d:
-
     # you "已经找到他了吗？"
-    you ""
+    you "Have you found him yet?"
 
 # game/charpter1A.rpy:1201
 translate en_US charpter1A_6_qte_0d733ac4:
-
     # bill "没有，但我知道在哪里等他。"
-    bill ""
+    bill "Not yet, but I know where to wait for him."
 
 # game/charpter1A.rpy:1203
 translate en_US charpter1A_6_qte_865a3d61:
-
     # "刚刚那是什么……是我看错了吗？"
-    ""
+    "What was that just now... Did I see it wrong?"
 
 # game/charpter1A.rpy:1211
 translate en_US charpter1A_6_qte_b80fb299:
-
     # "什么时候“阴沟”里来了这么多条子？！我怎么一点风声都没收到！"
-    ""
+    "When did so many cops show up in the 'gutter'?! How come I didn't catch wind of it at all!"
 
 # game/charpter1A.rpy:1212
 translate en_US charpter1A_6_qte_bc571929:
-
     # "我躲在墙角的后面，偷偷窥视着外面正守着巷子口的条子。"
-    ""
+    "I hid behind a wall corner, peeking out at the cops stationed at the alley entrance."
 
 # game/charpter1A.rpy:1213
 translate en_US charpter1A_6_qte_7b6bd6fa:
-
     # "这已经是我甩掉那个人类以后遇上的第三批了！"
-    ""
+    "This is already the third group I've run into after ditching that human!"
 
 # game/charpter1A.rpy:1214
 translate en_US charpter1A_6_qte_84ad8d5b:
-
     # "可恶！这是已经被包围了吗？！"
-    ""
+    "Damn it! Am I already surrounded?!"
 
 # game/charpter1A.rpy:1215
 translate en_US charpter1A_6_qte_d97b379e:
-
     # "我蹲下身子，尽可能的让自己全身隐藏在阴影里。"
-    ""
+    "I crouched down, trying to hide myself completely in the shadows."
 
 # game/charpter1A.rpy:1216
 translate en_US charpter1A_6_qte_22534add:
-
     # "要试图靠变形蒙混过去吗？"
-    ""
+    "Should I try to disguise myself by morphing?"
 
 # game/charpter1A.rpy:1217
 translate en_US charpter1A_6_qte_14d44c57:
-
     # "不行！刚才趁那家伙分神已经强行变形过一次了！到现在老子全身都还在痛！"
-    ""
+    "No way! I already forced a transformation when that guy was distracted earlier. My whole body is still sore from it!"
 
 # game/charpter1A.rpy:1218
 translate en_US charpter1A_6_qte_15f3e8e7:
-
     # "如果现在再次变形，很有可能出什么岔子。"
-    ""
+    "If I transform again now, there's a high chance something might go wrong."
 
 # game/charpter1A.rpy:1219
 translate en_US charpter1A_6_qte_94893c52:
-
     # "而且这些条子都来自管置局，很难说他们有没有什么奇怪的装置能把老子找出来。"
-    ""
+    "And these cops are from the Department. It's hard to say if they have any strange devices that could track me down."
+
 
 # game/charpter1A.rpy:1220
 translate en_US charpter1A_6_qte_16a6255e:
-
     # "不能冒险，还是换条路走吧！"
-    ""
+    "Can't take the risk. I'll find another route!"
 
 # game/charpter1A.rpy:1221
 translate en_US charpter1A_6_qte_593c6fb0:
-
     # "这里可是“阴沟”，论地形，我可比他们熟悉太多了。"
-    ""
+    "This is the 'gutter.' When it comes to the terrain, I know it far better than they do."
 
 # game/charpter1A.rpy:1222
 translate en_US charpter1A_6_qte_192d9652:
-
     # "想要包围老子，做梦！"
-    ""
+    "Surround me? In your dreams!"
 
 # game/charpter1A.rpy:1226
 translate en_US charpter1A_6_qte_5bbd92e6:
-
     # "很好！这里没有看见条子的身影！"
-    ""
+    "Good! There are no cops in sight here!"
 
 # game/charpter1A.rpy:1227
 translate en_US charpter1A_6_qte_5bbcd497:
-
     # "看来他们并不知道这条小路！"
-    ""
+    "Looks like they don't know about this path!"
 
 # game/charpter1A.rpy:1228
 translate en_US charpter1A_6_qte_b0a5033e:
-
     # "该死的条子！该死的人类！你们给老子等着！"
-    ""
+    "Damn cops! Damn humans! You'll pay for this!"
 
 # game/charpter1A.rpy:1229
 translate en_US charpter1A_6_qte_b9e473de:
-
     # "老子不会放过你们的！"
-    ""
+    "I won't let you get away with this!"
 
 # game/charpter1A.rpy:1230
 translate en_US charpter1A_6_qte_b5aa50fa:
-
     # "前面就是出口了，只要出去了就算是管置局他们也不可能找到我的！"
-    ""
+    "The exit is right ahead. Once I get out, even the Department won't be able to find me!"
 
 # game/charpter1A.rpy:1231
 translate en_US charpter1A_6_qte_d30a7402:
-
     # "我喘着气，走向了转角。"
-    ""
+    "Panting, I walked towards the corner."
 
 # game/charpter1A.rpy:1240
 translate en_US charpter1A_6_qte_73cbe1b4:
-
     # "一只高大健壮的熊人正严严实实地堵在出口前。"
-    ""
+    "A tall and muscular bearman was firmly blocking the exit."
 
 # game/charpter1A.rpy:1244
 translate en_US charpter1A_6_qte_a3ba331c:
-
     # calm "你要去哪？"
-    calm ""
+    calm "Where are you going?"
 
 # game/charpter1A.rpy:1245
 translate en_US charpter1A_6_qte_a295fd7a:
-
     # chameleon "关你屁事！给老子滚开！"
-    chameleon ""
+    chameleon "None of your damn business! Get out of my way!"
 
 # game/charpter1A.rpy:1246
 translate en_US charpter1A_6_qte_318e7b3b:
-
     # "等一下……"
-    ""
+    "Wait a minute…"
 
 # game/charpter1A.rpy:1247
 translate en_US charpter1A_6_qte_e20d4d4a:
-
     # "为什么这个时候会有人在这种地方？？？"
-    ""
+    "Why would someone be here at a time like this???"
 
 # game/charpter1A.rpy:1248
 translate en_US charpter1A_6_qte_122ff8ab:
-
     # "我因为疲惫而有些迟钝的脑子终于开始反应过来了……"
-    ""
+    "My tired and sluggish brain finally started to catch on…"
 
 # game/charpter1A.rpy:1249
 translate en_US charpter1A_6_qte_79d5c561:
-
     # "这家伙是在等我！他也是条……"
-    ""
+    "This guy was waiting for me! He's also a…"
 
 # game/charpter1A.rpy:1257
 translate en_US charpter1A_6_qte_6216ab0e:
-
     # "还没等我反应过来，伴随着剧烈的疼痛……"
-    ""
+    "Before I could react, accompanied by intense pain…"
 
 # game/charpter1A.rpy:1258
 translate en_US charpter1A_6_qte_6ad9443a:
-
     # "我的视角一下就砸在了地面，双手被反扭到了身后！"
-    ""
+    "My view suddenly smashed into the ground, and my hands were twisted behind my back!"
 
 # game/charpter1A.rpy:1259
 translate en_US charpter1A_6_qte_0c8f36a2:
-
     # calm "洛卡卡·狄安斯，你被捕了。"
-    calm ""
+    calm "Lorca Dians, you are under arrest."
 
 # game/charpter1A.rpy:1260
 translate en_US charpter1A_6_qte_21874142:
-
     # "不！"
-    ""
+    "No!"
 
 # game/charpter1A.rpy:1261
 translate en_US charpter1A_6_qte_f76799db:
-
     # "老子摸爬滚打几十年，现在却要败在一个条子手上？！"
-    ""
+    "I've been struggling and fighting for decades, and now I'm going to be defeated by a cop?!"
 
 # game/charpter1A.rpy:1262
 translate en_US charpter1A_6_qte_11ba5409:
-
     # "老子不甘心！"
-    ""
+    "I'm not going down without a fight!"
 
 # game/charpter1A.rpy:1264
 translate en_US charpter1A_6_qte_43a803c1:
-
     # "我拼命地调度周围的“以太”聚集在自己的身上！"
-    ""
+    "I desperately try to gather the surrounding 'Aether' around myself!"
 
 # game/charpter1A.rpy:1265
 translate en_US charpter1A_6_qte_7d0bfcb7:
-
     # "我清楚感觉到我全身长出了不属于变色龙的组织，每一寸肌肉都在无节制地膨胀。"
-    ""
+    "I clearly feel that my whole body is growing tissues that don't belong to a chameleon, every inch of muscle expanding uncontrollably."
 
 # game/charpter1A.rpy:1266
 translate en_US charpter1A_6_qte_fbe24434:
-
     # "混蛋。"
-    ""
+    "Bastard."
 
 # game/charpter1A.rpy:1267
 translate en_US charpter1A_6_qte_b1ba2791:
-
     # "老子要杀了你！管置局的杂种！"
-    ""
+    "I'm going to kill you! Department scum!"
 
 # game/charpter1A.rpy:1268
 translate en_US charpter1A_6_qte_54cadd9e:
-
     # calm "唉。"
-    calm ""
+    calm "Sigh."
 
 # game/charpter1A.rpy:1269
 translate en_US charpter1A_6_qte_6028564a:
-
     # "我突然感觉自己的后背传来了一阵刺痛——就好像……有什么东西扎进了我的身体里？"
-    ""
+    "Suddenly, I feel a sharp pain in my back—like… something has pierced into my body?"
 
 # game/charpter1A.rpy:1270
 translate en_US charpter1A_6_qte_e58e7824:
-
     # "没关系！这根本不算什么！"
-    ""
+    "It's fine! This is nothing!"
 
 # game/charpter1A.rpy:1271
 translate en_US charpter1A_6_qte_57390fbc:
-
     # "老子现在就能用这个新身体把条子彻底撕碎！"
-    ""
+    "I can use this new body to tear the cops apart right now!"
 
 # game/charpter1A.rpy:1273
 translate en_US charpter1A_6_qte_be94be20:
-
     # "我想象着自己变得更加高大的模样，但却发现自己膨胀的身体早已不断萎缩，甚至感觉到自己原本的力气都使不出来……"
-    ""
+    "I imagine myself growing even larger, but I find that my inflated body has already started shrinking, and I can't even muster the strength I once had…"
 
 # game/charpter1A.rpy:1274
 translate en_US charpter1A_6_qte_679fd7fe:
-
     # "怎么回事？！"
-    ""
+    "What's going on?!"
 
 # game/charpter1A.rpy:1275
 translate en_US charpter1A_6_qte_f6585bca:
-
     # "我更加拼命地调度周围的“以太”。"
-    ""
+    "I redouble my efforts to manipulate the surrounding 'Aether'."
 
 # game/charpter1A.rpy:1276
 translate en_US charpter1A_6_qte_14665b87:
-
     # "但原本如臂使指的“以太”却完全无视了我的指挥，甚至加速离开了我的身体！"
-    ""
+    "But the 'Aether', which used to respond to my commands, completely ignored me and even accelerated away from my body!"
 
 # game/charpter1A.rpy:1277
 translate en_US charpter1A_6_qte_5480433c:
-
     # "我眼睁睁看着原本膨胀的肌肉萎缩回到原来的样子。"
-    ""
+    "I watch in disbelief as my once-expanded muscles shrink back to their original state."
 
 # game/charpter1A.rpy:1278
 translate en_US charpter1A_6_qte_44f76a46:
-
     # "我使出剩下的力气扭过头，终于看到——"
-    ""
+    "I use the remaining strength to turn my head and finally see—"
 
 # game/charpter1A.rpy:1279
 translate en_US charpter1A_6_qte_58fda340:
-
     # "——一只还残留着蓝色液体的针管正静静地躺在地上。"
-    ""
+    "—a syringe still containing blue liquid lying quietly on the ground."
 
 # game/charpter1A.rpy:1281
 translate en_US charpter1A_6_qte_e7b70e8a:
-
     # chameleon "你他妈给我注射了什么！"
-    chameleon ""
+    chameleon "What the hell did you inject me with!"
 
 # game/charpter1A.rpy:1286
 translate en_US charpter1A_6_qte_8a91abaf:
-
     # "我不知道布莱恩眼中的画面是怎样的，但在我的视角里，红色的“以太”飞快地向那条变色龙聚集。"
-    ""
+    "I don't know what Brian saw, but from my perspective, the red 'Aether' quickly gathered towards that chameleon."
 
 # game/charpter1A.rpy:1287
 translate en_US charpter1A_6_qte_03c2993e:
-
     # "几乎是一瞬间“以太”就把变色龙像茧一样地包裹起来，再接着，变色龙的体型就开始飞快地膨胀。"
-    ""
+    "In an instant, the 'aether' enveloped the chameleon like a cocoon, and then the chameleon's body began to rapidly expand."
 
 # game/charpter1A.rpy:1288
 translate en_US charpter1A_6_qte_f2af2b29:
-
     # "与之相反的是，比尔现在和之前他在睡觉时全身被“以太”包围的情况不一样，此刻“以太”以比尔为中心，成网状般不断向四面八方扩散。"
-    ""
+    "In contrast, Bill is now surrounded by 'aether' in a different way than when he was asleep. At present, the 'aether' is spreading outwards in a network-like pattern from Bill's center."
 
 # game/charpter1A.rpy:1289
 translate en_US charpter1A_6_qte_c9d63b7c:
-
     # "这一点也不符合比尔之前和我说的关于“以太”的知识！"
-    ""
+    "This does not match the knowledge about 'aether' that Bill told me earlier!"
 
 # game/charpter1A.rpy:1290
 translate en_US charpter1A_6_qte_569ae15e:
-
     # "突然之间，一切都改变了。"
-    ""
+    "Suddenly, everything changed."
 
 # game/charpter1A.rpy:1291
 translate en_US charpter1A_6_qte_e5607c20:
-
     # "我不知道比尔具体做了什么，只看到他很快将什么东西迅速的刺进了身下变色龙的颈部。"
-    ""
+    "I don't know exactly what Bill did, only that he quickly thrust something into the chameleon's neck beneath him."
 
 # game/charpter1A.rpy:1292
 translate en_US charpter1A_6_qte_f388d1ff:
-
     # "紧接着之前包围着变色龙的“以太”便飞快地消散……"
-    ""
+    "Immediately, the 'aether' that had surrounded the chameleon quickly dissipated…"
 
 # game/charpter1A.rpy:1293
 translate en_US charpter1A_6_qte_cbdc5ce2:
-
     # "——不对！“以太”更像在逃跑！"
-    ""
+    "—No! The 'aether' seems to be running away!"
 
 # game/charpter1A.rpy:1295
 translate en_US charpter1A_6_qte_44466f4b:
-
     # "仅仅几秒钟的时间，变色龙身上的“以太”就消失的得无影无踪"
-    ""
+    "In just a few seconds, the 'aether' on the chameleon vanished without a trace."
 
 # game/charpter1A.rpy:1296
 translate en_US charpter1A_6_qte_d2e26afb:
-
     # "在他身上发生的一切变化也在不断地复原归位。"
-    ""
+    "All the changes happening to him were also continually reverting."
 
 # game/charpter1A.rpy:1297
 translate en_US charpter1A_6_qte_53a9b39c:
-
     # "到底发生了什么?"
-    ""
+    "What on earth happened?"
 
 # game/charpter1A.rpy:1307
 translate en_US charpter1A_6_qte_2934028e:
-
     # bill "布莱恩，你们把他带回车上。"
-    bill ""
+    bill "Brian, take him back to the car."
 
 # game/charpter1A.rpy:1308
 translate en_US charpter1A_6_qte_cb3d1cb7:
-
     # "比尔单手将变色龙推向赶来的管置局成员。"
-    ""
+    "Bill pushed the chameleon towards the arriving Bureau members with one hand."
 
 # game/charpter1A.rpy:1317
 translate en_US charpter1A_6_qte_8679c907:
-
     # operator_a "是！"
-    operator_a ""
+    operator_a "Yes!"
 
 # game/charpter1A.rpy:1321
 translate en_US charpter1A_6_qte_6df91977:
-
     # brian "是！"
-    brian ""
+    brian "Yes!"
 
 # game/charpter1A.rpy:1322
 translate en_US charpter1A_6_qte_2a6bd5ad:
-
     # chameleon "管制局的杂种！你他妈——"
-    chameleon ""
+    chameleon "Bureau scum! You damn—"
 
 # game/charpter1A.rpy:1329
 translate en_US charpter1A_6_qte_89e1f61a:
-
     # operator_a "安分点！"
-    operator_a ""
+    operator_a "Behave yourself!"
 
 # game/charpter1A.rpy:1331
 translate en_US charpter1A_6_qte_ae46a05b:
-
     # "那个科员把变色龙的双手拷在前方，推搡着他向不远处的囚车走去。"
-    ""
+    "The agent handcuffed the chameleon's hands in front and pushed him towards the nearby prison vehicle."
 
 # game/charpter1A.rpy:1337
 translate en_US charpter1A_6_qte_fd3d744a:
-
     # you "你对他做了什么，比尔？"
-    you ""
+    you "What did you do to him, Bill?"
 
 # game/charpter1A.rpy:1338
 translate en_US charpter1A_6_qte_4f78c978:
-
     # you "我看到他身上的“以太”就像老鼠一样地逃开了？"
-    you ""
+    you "I saw the 'aether' on him running away like a rat?"
 
 # game/charpter1A.rpy:1339
 translate en_US charpter1A_6_qte_9e312de3:
-
     # bill "因为这个。"
-    bill ""
+    bill "Because of this."
 
 # game/charpter1A.rpy:1340
 translate en_US charpter1A_6_qte_d57bbdc5:
-
     # "比尔转过身正对我，张开了左手。"
-    ""
+    "Bill turned to face me and opened his left hand."
 
 # game/charpter1A.rpy:1341
 translate en_US charpter1A_6_qte_991eaa83:
-
     # "他宽厚的手掌上正躺着一只还残留着蓝色液体的金属制针管，我的脑海里瞬间浮现上来了一个词。"
-    ""
+    "Lying in his broad palm was a metal syringe still containing blue liquid, and a word flashed through my mind."
 
 # game/charpter1A.rpy:1342
 translate en_US charpter1A_6_qte_a8b0bcb2:
-
     # "“抑制剂”。"
-    ""
+    "‘Suppressant.'"
 
 # game/charpter1A.rpy:1343
 translate en_US charpter1A_6_qte_2cf3fc37:
-
     # you "这是抑制剂？"
-    you ""
+    you "Is this a suppressant?"
 
 # game/charpter1A.rpy:1344
 translate en_US charpter1A_6_qte_3bb38768:
-
     # "比尔点了点头。"
-    ""
+    "Bill nodded."
 
 # game/charpter1A.rpy:1345
 translate en_US charpter1A_6_qte_6dd18429:
-
     # bill "只是和你在船上被注射不是同一种。"
-    bill ""
+    bill "It's just not the same type as what was injected into you on the ship."
 
 # game/charpter1A.rpy:1346
 translate en_US charpter1A_6_qte_00597454:
-
     # "比尔把针管递给了我。"
-    ""
+    "Bill handed the syringe to me."
 
 # game/charpter1A.rpy:1347
 translate en_US charpter1A_6_qte_0ebb9af5:
-
     # bill "看见里面这种蓝色的液体了吗？"
-    bill ""
+    bill "Do you see the blue liquid inside?"
 
 # game/charpter1A.rpy:1348
 translate en_US charpter1A_6_qte_6ad12d11:
-
     # bill "这种抑制剂虽然抑制效果只有三十分钟，但生效时间也只需要几秒。"
-    bill ""
+    bill "This suppressant only lasts for thirty minutes, but it takes effect in just a few seconds."
 
 # game/charpter1A.rpy:1349
 translate en_US charpter1A_6_qte_cbde8a77:
-
     # bill "因此这种抑制剂很适合用在抓捕行动。"
-    bill ""
+    bill "Therefore, this suppressant is well-suited for capture operations."
 
 # game/charpter1A.rpy:1350
 translate en_US charpter1A_6_qte_b485ca30:
-
     # you "既然有这东西，那为什么不用手枪发射？就像麻醉弹一样？"
-    you ""
+    you "Since you have this, why not use a gun to fire it, like a tranquilizer dart?"
 
 # game/charpter1A.rpy:1351
 translate en_US charpter1A_6_qte_16687977:
-
     # "我看着针管里的蓝色溶液，莫名感觉有些厌恶。"
-    ""
+    "Looking at the blue solution in the syringe, I felt a strange sense of disgust."
 
 # game/charpter1A.rpy:1353
 translate en_US charpter1A_6_qte_b86b3df2:
-
     # bill "事实上，这是管置局在逮捕异邦人罪犯时最常用的手法。"
-    bill ""
+    bill "In fact, this is the most commonly used method by the Bureau for capturing strangent criminals."
 
 # game/charpter1A.rpy:1354
 translate en_US charpter1A_6_qte_ee51088f:
-
     # bill "但考虑到这次的犯人能力涉及到肉体，并且环境具有相当的复杂性，罗威逊最终还是选择了直接注射的方案。"
-    bill ""
+    bill "But considering the criminal's abilities and the complexity of the environment, Rowson ultimately chose the direct injection method."
 
 # game/charpter1A.rpy:1356
 translate en_US charpter1A_6_qte_2b5a4547:
-
     # bill "你提醒我了——你需要学会用枪。"
-    bill ""
+    bill "You've reminded me—you need to learn how to use a gun."
 
 # game/charpter1A.rpy:1357
 translate en_US charpter1A_6_qte_d16dbaa0:
-
     # bill "至少需要学会瞄准和开枪，这能有效保护你自己。"
-    bill ""
+    bill "At the very least, you need to learn how to aim and shoot. It will help you protect yourself."
 
-# game/charpter1A.rpy:1358
+# game/charpter1A.rpy:636
 translate en_US charpter1A_6_qte_63aa17df:
-
     # "枪械？我？"
-    ""
+    "A gun? Me?"
 
 # game/charpter1A.rpy:1359
 translate en_US charpter1A_6_qte_9dfbb95f:
-
     # you "好吧……"
-    you ""
+    you "Alright…"
 
 # game/charpter1A.rpy:1360
 translate en_US charpter1A_6_qte_f10d1243:
-
     # bill "别担心，我会教你的。"
-    bill ""
+    bill "Don't worry, I'll teach you."
 
 # game/charpter1A.rpy:1370
 translate en_US charpter1A_6_qte_55d5933c:
-
     # "比尔的电话突然震动起来，在接通后，比尔把手机屏幕对准了我，里面是局长贱兮兮的大脸。"
-    ""
+    "Bill's phone suddenly vibrated, and after answering it, he held the screen up to me, showing the smug face of the Director."
 
 # game/charpter1A.rpy:1371
 translate en_US charpter1A_6_qte_2a3efd49:
-
     # rowsson "第一次出任务的感觉怎么样？"
-    rowsson ""
+    rowsson "How does it feel to be on your first mission?"
 
 # game/charpter1A.rpy:1375
 translate en_US charpter1A_6_qte_7449826f:
-
     # you "局长……"
-    you ""
+    you "Director…"
 
 # game/charpter1A.rpy:1377
 translate en_US charpter1A_6_qte_394cf70b:
-
     # rowsson "你和布莱恩两个……是警匪片看多了还是看小说看傻了？"
-    rowsson ""
+    rowsson "You and Brian… did you watch too many crime movies or read too many novels?"
 
 # game/charpter1A.rpy:1378
 translate en_US charpter1A_6_qte_b7c656c1:
-
     # rowsson "哪有接头会光明正大提手提箱的？是生怕别人不注意你们吗？"
-    rowsson ""
+    rowsson "Who carries a briefcase so openly during a meeting? Are you afraid no one will notice you?"
 
 # game/charpter1A.rpy:1379
 translate en_US charpter1A_6_qte_a079542c:
-
     # you "……局长，你都知道了？"
-    you ""
+    you "…Director, you knew about this?"
 
 # game/charpter1A.rpy:1381
 translate en_US charpter1A_6_qte_055c4008:
-
     # rowsson "废话，老子怎么可能随随便便放心让个新人和憨货独自出任务。"
-    rowsson ""
+    rowsson "Of course I knew. How could I trust a newbie and an idiot to go on a mission alone?"
 
 # game/charpter1A.rpy:1383
 translate en_US charpter1A_6_qte_2e402ff3:
-
     # rowsson "你们两个身后随时有便衣跟我汇报，你们的一举一动老子都清楚得很。"
-    rowsson ""
+    rowsson "There are always plainclothes agents reporting to me about your actions. I know everything you do."
 
 # game/charpter1A.rpy:1385
 translate en_US charpter1A_6_qte_c654ca97:
-
     # bill "好了，他们只是没有经验。"
-    bill ""
+    bill "Alright, they're just inexperienced."
 
 # game/charpter1A.rpy:1387
 translate en_US charpter1A_6_qte_5f4146c6:
-
     # rowsson "他们迟早得独当一面的，你就惯着他们吧。"
-    rowsson ""
+    rowsson "They'll have to handle things on their own sooner or later, so just indulge them."
 
 # game/charpter1A.rpy:1388
 translate en_US charpter1A_6_qte_b33e72b3:
-
     # bill "我们会把人带回去的。"
-    bill ""
+    bill "We'll bring them back."
 
 # game/charpter1A.rpy:1391
 translate en_US charpter1A_6_qte_7277ec94:
-
     # "比尔叹了口气，便挂断了电话。"
-    ""
+    "Bill sighed and hung up the phone."
 
 # game/charpter1A.rpy:1392
 translate en_US charpter1A_6_qte_0085aa63:
-
     # you "……局长他是生气了吗？"
-    you ""
+    you "…Is the Director angry?"
 
 # game/charpter1A.rpy:1394
 translate en_US charpter1A_6_qte_61728916:
-
     # bill "没有，你不用把他的话放在心上，他只是在扮黑脸而已。"
-    bill ""
+    bill "No, don't take his words to heart. He's just playing the bad cop."
 
 # game/charpter1A.rpy:1395
 translate en_US charpter1A_6_qte_28d4acdb:
-
     # bill "走吧，我们该回去了。"
-    bill ""
+    bill "Let's go. It's time for us to head back."
 
 # game/charpter1A.rpy:1402
 translate en_US charpter1A_6_qte_df04ec48:
-
     # "警车前，布莱恩正把那头变色龙推攘上车。"
-    ""
+    "In front of the police car, Brian was shoving the chameleon into the vehicle."
 
 # game/charpter1A.rpy:1403
 translate en_US charpter1A_6_qte_f51d8822:
-
     # "虽然能力被暂时抑制，但他看见我和比尔还是用着凶狠的目光紧盯着我们。"
-    ""
+    "Although his powers were temporarily suppressed, he still stared at Bill and me with a fierce gaze."
 
 # game/charpter1A.rpy:1404
 translate en_US charpter1A_6_qte_56820af9:
-
     # "我被他的眼神盯着，感到有些发毛，不过比尔倒是完全无视了。"
-    ""
+    "I felt uneasy under his gaze, but Bill completely ignored it."
 
 # game/charpter1A.rpy:1405
 translate en_US charpter1A_6_qte_6550f60e:
-
     # "也对，比尔估计早就习惯了吧。"
-    ""
+    "Makes sense. Bill has probably gotten used to it."
 
 # game/charpter1A.rpy:1406
 translate en_US charpter1A_6_qte_9efefdda:
-
     # "我摇了摇头，跟上了比尔的脚步。"
-    ""
+    "I shook my head and followed Bill."
 
 # game/charpter1A.rpy:1407
 translate en_US charpter1A_6_qte_14b37eba:
-
     # "不知怎么，我的脑子里突然冒出了一个莫名其妙的词语。"
-    ""
+    "Somehow, a strange word suddenly popped into my mind."
 
 # game/charpter1A.rpy:1409
 translate en_US charpter1A_6_qte_6c5aaefb:
-
     # "{color=#ff0000}“远离……”"
-    ""
+    "{color=#ff0000}“Stay away…”"
 
 # game/charpter1A.rpy:1410
 translate en_US charpter1A_6_qte_9109581b:
-
     # "远离什——"
-    ""
+    "Stay away from—"
 
 # game/charpter1A.rpy:1411
 translate en_US charpter1A_6_qte_e668387d:
-
     # bill "布莱恩！离那家伙远点！"
-    bill ""
+    bill "Brian! Stay away from that guy!"
 
 # game/charpter1A.rpy:1413
 translate en_US charpter1A_6_qte_1e1ec3ee:
-
     # "正当我还在发蒙时，比尔却突然转身再次大吼了一句——"
-    ""
+    "Just as I was still in a daze, Bill suddenly turned around and shouted again—"
 
 # game/charpter1A.rpy:1415
 translate en_US charpter1A_6_qte_8f694e8b:
-
     # bill "小心！"
-    bill ""
+    bill "Watch out!"
 
 # game/charpter1A.rpy:1416
 translate en_US charpter1A_6_qte_5b1f67df:
-
     # "怎么了？！"
-    ""
+    "What's going on?!"
 
 # game/charpter1A.rpy:1419
 translate en_US charpter1A_6_qte_ad29904f:
-
     # "我顺着比尔的目光望去，被铐上双手的变色龙身上莫名长出了好几个婴儿头大小的肉瘤，正对准着我和比尔！"
-    ""
+    "Following Bill's gaze, I saw that the handcuffed chameleon had grown several baby-head-sized tumors, all aimed directly at Bill and me!"
 
 # game/charpter1A.rpy:1422
 translate en_US charpter1A_6_qte_dac2a5fd:
-
     # "这些肉瘤就像什么恐怖科幻片里未发育完整的器官，不停在变色龙身上扭动着，就像是带着自我意识一样！"
-    ""
+    "These tumors were writhing on the chameleon's body like undeveloped organs from a horror sci-fi movie, as if they had a mind of their own!"
 
 # game/charpter1A.rpy:1423
 translate en_US charpter1A_6_qte_37ba4429:
-
     # "那是些什么玩意？？！"
-    ""
+    "What are those things?!"
 
 # game/charpter1A.rpy:1424
 translate en_US charpter1A_6_qte_7ca3a294:
-
     # chameleon "给老子去死！！！"
-    chameleon ""
+    chameleon "Die, damn it!!!"
 
 # game/charpter1A.rpy:1428
 translate en_US charpter1A_6_qte_decc2931:
-
     # "那些肉瘤几乎是同时爆开，冲着我和比尔喷伸射出无数淡黄色的脓液和类似于牙齿一般的尖锐骨块。"
-    ""
-
+    "The tumors exploded almost simultaneously, shooting out countless streams of pale yellow pus and sharp bone fragments like teeth towards Bill and me."
 # game/charpter1A.rpy:1439
 translate en_US charpter1A_6_qte_0ae9bcd0:
 
@@ -4117,1273 +3786,1071 @@ translate en_US charpter1A_6_qte_0ae9bcd0:
 
 # game/charpter1A.rpy:1441
 translate en_US charpter1A_6_qte_aea6982b:
-
     # "{color=#ff0000}牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他牺牲他"
-    ""
-
+    "{color=#ff0000}Sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him, sacrifice him"
+    
 # game/charpter1A.rpy:1442
 translate en_US charpter1A_6_qte_5c450be4:
-
     # "比尔一把拉住我的手，把我挡在了身后。"
-    ""
+    "Bill grabbed my hand and shielded me from the front."
 
 # game/charpter1A.rpy:1444
 translate en_US charpter1A_6_qte_a5ca0f15:
-
     # "{color=#00c8ff}{size=+30}■■■■■■{/size}{/color}"
-    ""
+    "{color=#00c8ff}{size=+30}■■■■■■{/size}{/color}"
 
 # game/charpter1A.rpy:1447
 translate en_US charpter1A_6_qte_c3f86da6:
-
     # "上方的广告牌突然断裂并掉了下来，正好挡住了这些散发着恶臭的脓液。"
-    ""
+    "The billboard above suddenly broke apart and fell, just in time to block the foul-smelling pus."
 
 # game/charpter1A.rpy:1448
 translate en_US charpter1A_6_qte_bef876b8:
-
     # "塑料制的广告牌立即被腐蚀穿一大片。"
-    ""
+    "The plastic billboard was quickly corroded and torn apart."
 
 # game/charpter1A.rpy:1449
 translate en_US charpter1A_6_qte_6682001a:
-
     # "要是这些脓液作用在人体上，后果一定不堪设想。"
-    ""
+    "If this pus had come into contact with human bodies, the consequences would have been unimaginable."
 
 # game/charpter1A.rpy:1450
 translate en_US charpter1A_6_qte_7ff6da77:
-
     # "而那些掺杂其中高速飞来的骨块，被广告挡下了一部分。"
-    ""
+    "Some of the high-speed bone fragments mixed in were blocked by the billboard."
 
 # game/charpter1A.rpy:1451
 translate en_US charpter1A_6_qte_3b877951:
-
     # "剩下的则是直接从我和比尔的身旁擦过，连衣服都没有碰到。"
-    ""
+    "The rest of the fragments passed directly by Bill and me, without even touching our clothes."
 
 # game/charpter1A.rpy:1459
 translate en_US charpter1A_6_qte_8933e836:
-
     # you "……"
-    you ""
+    you "…"
 
 # game/charpter1A.rpy:1460
 translate en_US charpter1A_6_qte_f2c26cc8:
-
     # brian "……"
-    brian ""
+    brian "…"
 
 # game/charpter1A.rpy:1461
 translate en_US charpter1A_6_qte_6dc36f03:
-
     # bill "……"
-    bill ""
+    bill "…"
 
 # game/charpter1A.rpy:1462
 translate en_US charpter1A_6_qte_9cfc7997:
-
     # chameleon "……"
-    chameleon ""
+    chameleon "…"
 
 # game/charpter1A.rpy:1463
 translate en_US charpter1A_6_qte_392b8862:
-
     # "周围似乎一瞬间安静了下来。"
-    ""
+    "The surroundings seemed to fall silent in an instant."
 
 # game/charpter1A.rpy:1464
 translate en_US charpter1A_6_qte_e466c1f1:
-
     # "这无法解释的巧合和刚刚那抹红色有关吗？！"
-    ""
+    "Does this inexplicable coincidence have anything to do with that flash of red earlier?!"
 
 # game/charpter1A.rpy:1465
 translate en_US charpter1A_6_qte_ef9d22a8:
-
     # chameleon "该死！……该死！"
-    chameleon ""
+    chameleon "Damn it!… Damn it!"
 
 # game/charpter1A.rpy:1467
 translate en_US charpter1A_6_qte_beb1c14a:
-
     # "变色龙一边怒骂着一边全身开始不断扭曲起来，看上去就像是一块血肉做成的橡皮泥在不停的被人捏造。"
-    ""
+    "As the chameleon cursed angrily, its whole body began to twist and distort, looking like a chunk of flesh being constantly molded like clay."
 
 # game/charpter1A.rpy:1468
 translate en_US charpter1A_6_qte_12e40534:
-
     # "很快就已经完全分辨不出他的人形，而手铐也早就从那完全失去骨骼的身体上滑落。"
-    ""
+    "It soon became impossible to distinguish its human form, and the handcuffs had long since slipped off its body, which had completely lost its skeletal structure."
 
 # game/charpter1A.rpy:1469
 translate en_US charpter1A_6_qte_cd09bb9c:
-
     # "现在的变色龙，看起来就是一大滩掉落在地的果冻。"
-    ""
+    "Now, the chameleon looked like a large pile of jelly fallen to the ground."
 
 # game/charpter1A.rpy:1470
 translate en_US charpter1A_6_qte_58f3a2aa:
-
     # "只是这个果冻整体呈暗红色，仔细观察甚至能看见内部鲜红的内脏！"
-    ""
-
+    "This jelly was dark red overall, and upon closer inspection, you could see the bright red internal organs inside!"
 # game/charpter1A.rpy:1471
 translate en_US charpter1A_6_qte_94c943a1:
 
     # brian "！"
-    brian ""
-
+    brian "!"
 # game/charpter1A.rpy:1475
 translate en_US charpter1A_6_qte_333f69a3:
-
     # savvy "30分钟的抑制效果被缩短到了5分钟吗？初步符合研究理论。"
-    savvy ""
+    savvy "The suppression effect, which should have lasted 30 minutes, was reduced to 5 minutes? This roughly matches the research theory."
 
 # game/charpter1A.rpy:1476
 translate en_US charpter1A_6_qte_eef17cc1:
-
     # savvy "完全不符合任何已知的生命形态……"
-    savvy ""
+    savvy "It completely defies any known life forms…"
 
 # game/charpter1A.rpy:1477
 translate en_US charpter1A_6_qte_3699779f:
-
     # savvy "看起来像是史莱姆一类的空想生物。"
-    savvy ""
+    savvy "It resembles a fictional creature like a slime."
 
 # game/charpter1A.rpy:1478
 translate en_US charpter1A_6_qte_5ec72e4b:
-
     # savvy "看来开发完的能力和原有能力会保持着一定程度相似，但本质完全不同。"
-    savvy ""
+    savvy "It seems that the developed ability retains some similarity to the original ability but is fundamentally different."
 
 # game/charpter1A.rpy:1479
 translate en_US charpter1A_6_qte_830f26d2:
-
     # savvy "是不是还要多次验证……"
-    savvy ""
+    savvy "We might need to verify this multiple times…"
 
 # game/charpter1A.rpy:1480
 translate en_US charpter1A_6_qte_a5489095:
-
     # savvy "研究方向没问题，叫他们继续往这个方面研究吧。"
-    savvy ""
+    savvy "The research direction is correct. Tell them to continue in this direction."
 
 # game/charpter1A.rpy:1481
 translate en_US charpter1A_6_qte_a88ab006:
-
     # savvy "嗯……和他们说的一样……发生了概率极小的巧合……"
-    savvy ""
+    savvy "Hmm… Just as they said… A very rare coincidence occurred…"
 
 # game/charpter1A.rpy:1482
 translate en_US charpter1A_6_qte_34206c26:
-
     # savvy "还需要继续观察，不急。"
-    savvy ""
+    savvy "We need to continue observing. No rush."
 
 # game/charpter1A.rpy:1483
 translate en_US charpter1A_6_qte_dcdf6b38:
-
     # savvy "那个人类？暂时不用管他，他的价值并没有那么大。"
-    savvy ""
+    savvy "That human? We don't need to worry about him for now; he's not that valuable."
 
 # game/charpter1A.rpy:1484
 translate en_US charpter1A_6_qte_430bc130:
-
     # savvy "现阶段暂时先观察吧。"
-    savvy ""
+    savvy "At this stage, let's just observe for now."
 
 # game/charpter1A.rpy:1488
 translate en_US charpter1A_6_qte_1615a76a:
-
     # "现在是晚上11点，距离变色龙逃跑已经过去了4个小时。"
-    ""
+    "It's now 11 PM, and it's been 4 hours since the chameleon escaped."
 
 # game/charpter1A.rpy:1489
 translate en_US charpter1A_6_qte_91bf54c1:
-
     # "我们最终还是没有抓到那头变色龙……感觉已经不能这么称呼他了。"
-    ""
+    "We still couldn't catch that chameleon... It feels like we can't even call it that anymore."
 
 # game/charpter1A.rpy:1490
 translate en_US charpter1A_6_qte_151f0788:
-
     # "虽然布莱恩和管置局的成员很快就从惊愕中恢复过来，试图包围那坨已经无法形容的血肉，但终归还是晚了一步。"
-    ""
+    "Although Brian and the members of the management bureau quickly recovered from their shock and tried to surround the indescribable mass of flesh, it was ultimately too late."
 
 # game/charpter1A.rpy:1491
 translate en_US charpter1A_6_qte_350dd7de:
-
     # "那坨血肉飞快地在地面上滑行，就算是被子弹击中也丝毫没有影响它的速度。"
-    ""
+    "The mass of flesh slid quickly across the ground, and even being hit by bullets didn't affect its speed at all."
 
 # game/charpter1A.rpy:1492
 translate en_US charpter1A_6_qte_ca09f47b:
-
     # "在短短的几秒钟里，它就消失在了路边的下水道口，只留下一道长长的暗红色痕迹。"
-    ""
+    "In just a few seconds, it disappeared into a sewer opening by the roadside, leaving behind a long, dark red streak."
 
 # game/charpter1A.rpy:1493
 translate en_US charpter1A_6_qte_c00822e6:
-
     # "但这不是让我最担心的。"
-    ""
+    "But that's not what worries me the most."
 
 # game/charpter1A.rpy:1496
 translate en_US charpter1A_6_qte_ff7bb6fe:
-
     # "我看向正在清洗碗筷的比尔，回想起那之后比尔痛苦的表情。"
-    ""
+    "I looked at Bill, who was washing the dishes, and remembered his pained expression afterward."
 
 # game/charpter1A.rpy:1497
 translate en_US charpter1A_6_qte_75514a9c:
-
     # "是因为那诡异到极致的巧合吗？那就是比尔的能力吗？"
-    ""
+    "Was it because of that bizarre coincidence? Is that Bill's ability?"
 
 # game/charpter1A.rpy:1498
 translate en_US charpter1A_6_qte_d3b4b5d8:
-
     # "我该问他吗？他又会回答我吗？"
-    ""
+    "Should I ask him? Will he even answer me?"
 
 # game/charpter1A.rpy:1499
 translate en_US charpter1A_6_qte_9823fad6:
-
     # "我一时间有些出神。"
-    ""
+    "I was momentarily lost in thought."
 
 # game/charpter1A.rpy:1502
 translate en_US charpter1A_6_qte_e2aeb739:
-
     # bill "你想问什么？"
-    bill ""
+    bill "What do you want to ask?"
 
 # game/charpter1A.rpy:1503
 translate en_US charpter1A_6_qte_c5af68ee:
-
     # "比尔不知道什么时候已经收拾好了碗筷，坐到了我的对面。"
-    ""
+    "Bill had somehow finished clearing the dishes and sat down across from me."
 
 # game/charpter1A.rpy:1504
 translate en_US charpter1A_6_qte_481ad1bf:
-
     # you "欸？你怎么知道的？"
-    you ""
+    you "Huh? How did you know?"
 
 # game/charpter1A.rpy:1506
 translate en_US charpter1A_6_qte_129232e9:
-
     # bill "你的表情。"
-    bill ""
+    bill "Your expression."
 
 # game/charpter1A.rpy:1507
 translate en_US charpter1A_6_qte_a3c745ed:
-
     # you "……今天那个巧合是比尔你的能力吗？"
-    you ""
+    you "…Was that coincidence today your ability, Bill?"
 
 # game/charpter1A.rpy:1509
 translate en_US charpter1A_6_qte_e4529cb6:
-
     # bill "是。"
-    bill ""
+    bill "Yes."
 
 # game/charpter1A.rpy:1510
 translate en_US charpter1A_6_qte_61e49746:
-
     # "意料之中的答案。"
-    ""
+    "An expected answer."
 
 # game/charpter1A.rpy:1511
 translate en_US charpter1A_6_qte_ac17d412:
-
     # you "是因为要保护我？"
-    you ""
+    you "Is it because you wanted to protect me?"
 
 # game/charpter1A.rpy:1512
 translate en_US charpter1A_6_qte_f57a1940_1:
-
     # bill "嗯。"
-    bill ""
+    bill "Yes."
 
 # game/charpter1A.rpy:1513
 translate en_US charpter1A_6_qte_f2ed1cdf:
-
     # "我又一次被比尔保护了啊……这已经第二次了。"
-    ""
+    "I've been protected by Bill again… This is the second time."
 
 # game/charpter1A.rpy:1514
 translate en_US charpter1A_6_qte_51256e5b:
-
     # bill "还记得你要我教你能力的使用方法吗？"
-    bill ""
+    bill "Do you remember you asked me to teach you how to use the ability?"
 
 # game/charpter1A.rpy:1515
 translate en_US charpter1A_6_qte_3cb8a37f:
-
     # you "记得，怎么了？"
-    you ""
+    you "Yes, I remember. What's up?"
 
 # game/charpter1A.rpy:1518
 translate en_US charpter1A_6_qte_d632c713:
-
     # "比尔站了起来，坐到了我旁边。"
-    ""
+    "Bill stood up and sat down next to me."
 
 # game/charpter1A.rpy:1519
 translate en_US charpter1A_6_qte_c76f7c7f:
-
     # bill "我现在教你，把手放在我额头上。"
-    bill ""
+    bill "I'll teach you now. Put your hand on my forehead."
 
 # game/charpter1A.rpy:1520
 translate en_US charpter1A_6_qte_61940a29:
-
     # "比尔把脑袋凑过来。"
-    ""
+    "Bill leaned his head closer."
 
 # game/charpter1A.rpy:1521
 translate en_US charpter1A_6_qte_c96443b9:
-
     # you "现在吗？！"
-    you ""
+    you "Now?!"
 
 # game/charpter1A.rpy:1522
 translate en_US charpter1A_6_qte_d42f26c6:
-
     # "我嘴上这么说，但还是老老实实地把手放在了比尔的额头。"
-    ""
+    "I said that, but still obediently placed my hand on Bill's forehead."
 
 # game/charpter1A.rpy:1523
 translate en_US charpter1A_6_qte_f5788d92:
-
     # "比尔额头有些烫，是熊的体温要比人类高还是他发烧了？"
-    ""
+    "Bill's forehead was a bit warm. Is it because bears have higher body temperatures than humans, or is he running a fever?"
 
 # game/charpter1A.rpy:1525
 translate en_US charpter1A_6_qte_7292a11b:
-
     # bill "注意力集中，想象你进入我梦境的感觉。"
-    bill ""
+    bill "Focus, and imagine the feeling of entering my dream."
 
 # game/charpter1A.rpy:1528
 translate en_US charpter1A_6_qte_7ac5d71f:
-
     # "我闭上了双眼，努力回想当时的感觉。"
-    ""
+    "I closed my eyes and tried to recall the feeling from before."
 
 # game/charpter1A.rpy:1529
 translate en_US charpter1A_6_qte_90f1c940:
-
     # "伴随着一阵轻松的抽离感，“我”漂浮在了自己的身体上。"
-    ""
+    "With a sense of gentle detachment, 'I' floated above my own body."
 
 # game/charpter1A.rpy:1536
 translate en_US charpter1A_6_qte_be69454c:
-
     # "接下来就是触碰比尔？"
-    ""
+    "Next is to touch Bill?"
 
 # game/charpter1A.rpy:1537
 translate en_US charpter1A_6_qte_442941ca_3:
-
     # "……"
-    ""
+    "…"
 
 # game/charpter1A.rpy:1538
 translate en_US charpter1A_6_qte_54e35c91:
-
     # "和上次不同的是，这次我试图触碰比尔的行为并没有传来排斥感，这就是比尔要我把手放在他额头的原因吗？"
-    ""
+    "Unlike last time, this time, trying to touch Bill did not bring a sense of repulsion. Is this why Bill asked me to put my hand on his forehead?"
 
 # game/charpter1A.rpy:1540
 translate en_US charpter1A_6_qte_1ef1f65a:
-
     # "周围的环境渐渐变白，最后形成了一个纯白的房间。"
-    ""
+    "The surrounding environment gradually turned white, eventually forming a pure white room."
 
 # game/charpter1A.rpy:1541
 translate en_US charpter1A_6_qte_138a8431:
-
     # "这里怎么和我上次进来的不一样？"
-    ""
+    "Why is this different from the last time I came in?"
 
 # game/charpter1A.rpy:1543
 translate en_US charpter1A_6_qte_93e20d1e:
-
     # bill "因为我现在是清醒的。"
-    bill ""
+    bill "Because I'm awake now."
 
 # game/charpter1A.rpy:1544
 translate en_US charpter1A_6_qte_4d58ea10:
-
     # "比尔突然的出现在我的面前，但这不是最关键的。"
-    ""
+    "Bill suddenly appeared in front of me, but that's not the most critical part."
 
 # game/charpter1A.rpy:1545
 translate en_US charpter1A_6_qte_eb8599f1:
-
     # "最关键的是，此时的比尔是完全裸体的状态……"
-    ""
+    "The most critical part is that Bill is completely naked at this moment…"
 
 # game/charpter1A.rpy:1546
 translate en_US charpter1A_6_qte_d3a1864e:
-
     # you "比，比尔……衣，衣服……"
-    you ""
+    you "B-Bill… Your, your clothes…"
 
 # game/charpter1A.rpy:1547
 translate en_US charpter1A_6_qte_7341152f:
-
     # "我又脸红又结巴地提醒比尔，但视线却完全移不开。"
-    ""
+    "I blushed and stammered as I reminded Bill, but my gaze couldn't move away."
 
 # game/charpter1A.rpy:1548
 translate en_US charpter1A_6_qte_d2c076a2:
-
     # "该说不说，很符合熊兽人的刻板印象。"
-    ""
+    "Needless to say, it fits the stereotype of bear beastmen."
 
 # game/charpter1A.rpy:1549
 translate en_US charpter1A_6_qte_60921926:
-
     # bill "嗯？"
-    bill ""
+    bill "Hmm?"
 
 # game/charpter1A.rpy:1551
 translate en_US charpter1A_6_qte_aaa3f9c7:
-
     # "衣服慢慢地在比尔身上浮现。"
-    ""
+    "Clothes gradually appeared on Bill."
 
 # game/charpter1A.rpy:1553
 translate en_US charpter1A_6_qte_4589a735:
-
     # you "刚刚那是？"
-    you ""
+    you "What was that just now?"
 
 # game/charpter1A.rpy:1554
 translate en_US charpter1A_6_qte_47b9feec:
-
     # bill "意识，或者说灵魂最原本的状态。"
-    bill ""
+    bill "Consciousness, or the most original state of the soul."
 
 # game/charpter1A.rpy:1555
 translate en_US charpter1A_6_qte_79d49ecb:
-
     # bill "怎么了？"
-    bill ""
+    bill "What's wrong?"
 
 # game/charpter1A.rpy:1556
 translate en_US charpter1A_6_qte_7fc0327a:
-
     # you "没什么。"
-    you ""
+    you "Nothing."
 
 # game/charpter1A.rpy:1557
 translate en_US charpter1A_6_qte_1635e3a6:
-
     # "比尔的表情好正经，是我太不纯洁了……"
-    ""
+    "Bill's expression is so serious. Am I too impure…"
 
 # game/charpter1A.rpy:1558
 translate en_US charpter1A_6_qte_39ac72cd:
-
     # bill "你之前在我梦里看到的大海是这样的吗？"
-    bill ""
-
+    bill "Is the sea you saw in my dream like this?"
+    
 # game/charpter1A.rpy:1561
 translate en_US charpter1A_6_qte_aefc0d0d:
-
     # "周围的环境随着比尔的话语逐渐变成了我曾经看见过的大海，而我和比尔就这么站在了海洋上。"
-    ""
+    "The surroundings gradually transformed into the sea I had seen before as Bill spoke, and Bill and I were standing on the ocean."
+
 
 # game/charpter1A.rpy:1562
 translate en_US charpter1A_6_qte_c383b433:
-
     # you "是，不过你是怎么改变环境的？"
-    you ""
+    you "Yes, but how do you change the environment?"
 
 # game/charpter1A.rpy:1563
 translate en_US charpter1A_6_qte_41157273:
-
     # bill "这里是我的梦境，我只需要想就好。"
-    bill ""
+    bill "This is my dream, I just need to think about it."
 
 # game/charpter1A.rpy:1564
 translate en_US charpter1A_6_qte_7af71a3b:
-
     # bill "理论上你作为外来者也可以更改，甚至可以勾起部分记忆来作为梦境。"
-    bill ""
+    bill "Theoretically, you as an outsider can also change it, even evoke some memories to shape the dream."
 
-# game/charpter1A.rpy:1565
+# game/charpter1A.rpy:6362cd1c
 translate en_US charpter1A_6_qte_6362cd1c:
-
     # bill "现在，想象自己往海底沉下去。"
-    bill ""
+    bill "Now, imagine yourself sinking to the bottom of the sea."
 
 # game/charpter1A.rpy:1571
 translate en_US charpter1A_6_qte_75ce9942:
-
     # "我深呼吸一口气，想象着自己往海底沉去。"
-    ""
+    "I took a deep breath and imagined myself sinking to the bottom of the sea."
 
 # game/charpter1A.rpy:1574
 translate en_US charpter1A_6_qte_78f38ee8:
-
     # "慢慢地，海水渐渐漫过了我的全身……"
-    ""
+    "Gradually, the seawater covered my whole body…"
 
 # game/charpter1A.rpy:1575
 translate en_US charpter1A_6_qte_79d319ac:
-
     # "我离海面上的比尔越来越远，但他的声音却一直像在我耳边。"
-    ""
+    "I was moving further from Bill on the sea surface, but his voice was still in my ear."
 
 # game/charpter1A.rpy:1576
 translate en_US charpter1A_6_qte_65e68d55:
-
     # bill "我之前说过，这片大海和潜意识有关。"
-    bill ""
+    bill "I mentioned before that this sea is related to the subconscious."
 
 # game/charpter1A.rpy:1577
 translate en_US charpter1A_6_qte_1dcef7fd:
-
     # bill "你越往海底深入就越接近梦境的核心意识。"
-    bill ""
+    bill "The deeper you go, the closer you get to the core consciousness of the dream."
 
 # game/charpter1A.rpy:1578
 translate en_US charpter1A_6_qte_c94c262d:
-
     # bill "如果有防备，你深入的过程并不会太顺利。"
-    bill ""
+    bill "If there are defenses, your progress will not be smooth."
 
 # game/charpter1A.rpy:1580
 translate en_US charpter1A_6_qte_e9b96c49:
-
     # bill "就像这样。"
-    bill ""
+    bill "Just like this."
 
 # game/charpter1A.rpy:1586
 translate en_US charpter1A_6_qte_60d82a7c:
-
     # "突然原本温暖的海水开始变的冰冷刺骨，不断有涌来的暗流在试图把我卷漩涡中。"
-    ""
+    "Suddenly, the warm seawater turned icy cold, with dark currents trying to pull me into a whirlpool."
 
 # game/charpter1A.rpy:1590
 translate en_US charpter1A_6_qte_f174f7d7:
-
     # "就在我快要坚持不下去的时候，一切又恢复了平静，一股海流慢慢将我托上了海面。"
-    ""
+    "Just as I was about to give up, everything returned to calm, and a current gently brought me back to the surface."
 
 # game/charpter1A.rpy:1592
 translate en_US charpter1A_6_qte_eee44bd8:
-
     # bill "你越往海底前进，就越有可能遭受潜意识的反击。"
-    bill ""
+    bill "The further you go down, the more likely you are to face resistance from the subconscious."
 
 # game/charpter1A.rpy:1593
 translate en_US charpter1A_6_qte_48e56434:
-
     # bill "这种反击虽然不会对你现实中产生任何的影响，但足够把你从梦境中驱逐出去。"
-    bill ""
+    bill "Although this resistance won't affect you in reality, it is enough to expel you from the dream."
 
 # game/charpter1A.rpy:1594
 translate en_US charpter1A_6_qte_eea7385a:
-
     # "比尔伸出手，把我从海面上拉起。"
-    ""
+    "Bill reached out and pulled me up from the surface of the sea."
 
 # game/charpter1A.rpy:1595
 translate en_US charpter1A_6_qte_1c1e5686:
-
     # bill "现在试试改变环境，把周围变为客厅。"
-    bill ""
+    bill "Now try changing the environment, turn it into a living room."
 
 # game/charpter1A.rpy:1596
 translate en_US charpter1A_6_qte_f3a42f57:
-
     # bill "不需要用力，闭上眼睛，顺其自然想象客厅的样子。"
-    bill ""
+    bill "No need to force it, close your eyes, and naturally imagine what the living room looks like."
 
 # game/charpter1A.rpy:1597
 translate en_US charpter1A_6_qte_cf8c5364:
-
     # bill "“以太”会回应你的想法。"
-    bill ""
+    bill "The 'aether' will respond to your thoughts."
 
 # game/charpter1A.rpy:1600
 translate en_US charpter1A_6_qte_2a24e179:
-
     # "我闭上了眼睛，按照比尔所说，在脑海理构思着客厅的样子。"
-    ""
+    "I closed my eyes and, following Bill's instructions, envisioned the living room in my mind."
 
 # game/charpter1A.rpy:1602
 translate en_US charpter1A_6_qte_bc3524dc:
-
     # "我能感觉到身边的“以太”正随着我的想法慢慢的融入周围的环境并改造。"
-    ""
+    "I could feel the 'aether' around me slowly integrating with and transforming the surrounding environment according to my thoughts."
 
 # game/charpter1A.rpy:1605
 translate en_US charpter1A_6_qte_58382194:
-
     # "等我睁开眼，周围已经是客厅的样子了，虽然有些地方显得十分模糊。"
-    ""
+    "When I opened my eyes, the surroundings had become a living room, although some areas appeared quite blurry."
 
 # game/charpter1A.rpy:1607
 translate en_US charpter1A_6_qte_e53fff26:
-
     # bill "你掌握的很快。"
-    bill ""
+    bill "You're grasping it quickly."
 
 # game/charpter1A.rpy:1609
 translate en_US charpter1A_6_qte_6ae83816:
-
     # bill "现在试试，在你手里想象一本你曾经看过但记不太清的书。"
-    bill ""
+    bill "Now try imagining a book you've seen before but don't remember clearly."
 
 # game/charpter1A.rpy:1610
 translate en_US charpter1A_6_qte_a9db6e28:
-
     # "看过但记不清的书？数学书不知道可以不？"
-    ""
+    "A book you've seen but don't remember clearly? What about a math book?"
 
 # game/charpter1A.rpy:1612
 translate en_US charpter1A_6_qte_94dc2934:
-
     # "我用之前的办法想象着，很快，和我记忆中一模一样的数学书出现在我的手中。"
-    ""
+    "I used the previous method to imagine it, and soon, a math book identical to my memory appeared in my hand."
 
 # game/charpter1A.rpy:1613
 translate en_US charpter1A_6_qte_783e6ef2:
-
     # bill "翻开试试。"
-    bill ""
+    bill "Try flipping through it."
 
 # game/charpter1A.rpy:1614
 translate en_US charpter1A_6_qte_99839e0b:
-
     # "我听话的翻开了，虽然外形上一模一样，但里面的内容却完全不像。"
-    ""
+    "I obediently flipped through it, and although the appearance was identical, the contents were completely different."
 
 # game/charpter1A.rpy:1615
 translate en_US charpter1A_6_qte_437e6c85:
-
     # "不但有大量的空白页数，甚至一些地方被填满了乱七八糟的符号，就像小孩子的涂鸦本。"
-    ""
+    "There were not only a lot of blank pages but also some pages filled with messy symbols, like a child's doodle book."
 
 # game/charpter1A.rpy:1617
 translate en_US charpter1A_6_qte_37aca5fc:
-
     # bill "梦里的东西是根据你或者梦境主人记忆形成。"
-    bill ""
+    bill "Things in dreams are formed based on your or the dream owner's memory."
 
 # game/charpter1A.rpy:1618
 translate en_US charpter1A_6_qte_1b37ade4:
-
     # bill "这也是为什么有些地方十分模糊，因为你并不记得那些细节。"
-    bill ""
+    bill "That's why some parts are very blurry; you don't remember those details."
 
 # game/charpter1A.rpy:1619
 translate en_US charpter1A_6_qte_a597c744:
-
     # you "那这有什么用？"
-    you ""
+    you "So what use is this?"
 
 # game/charpter1A.rpy:1620
 translate en_US charpter1A_6_qte_34cfd06d:
-
     # bill "获取信息，但现在有另一个作用。"
-    bill ""
+    bill "It's for gathering information, but there's another purpose now."
 
 # game/charpter1A.rpy:1621
 translate en_US charpter1A_6_qte_99c24af7:
-
     # you "什么？"
-    you ""
+    you "What?"
 
 # game/charpter1A.rpy:1623
 translate en_US charpter1A_6_qte_a718d6d6:
-
     # bill "教你用枪。"
-    bill ""
+    bill "Teach you how to use a gun."
 
 # game/charpter1A.rpy:1626
 translate en_US charpter1A_6_qte_dc18aa1e:
-
     # "周围的环境很快的从客厅变成了一个靶场，比尔身上的衣服也换成之前我在船上见到的那一套。"
-    ""
+    "The environment quickly changed from a living room to a shooting range, and Bill's clothes changed to the ones I had seen him wearing on the boat."
 
 # game/charpter1A.rpy:1627
 translate en_US charpter1A_6_qte_dd346980:
-
     # bill "先教你基本姿势，你跟着我做。"
-    bill ""
+    bill "First, I'll teach you the basic stance. Follow my lead."
 
 # game/charpter1A.rpy:1630
 translate en_US charpter1A_6_qte_b289d12c:
-
     # bill "握住，然后对准前方的靶子。"
-    bill ""
+    bill "Grip the gun, then aim at the target in front of you."
 
 # game/charpter1A.rpy:1631
 translate en_US charpter1A_6_qte_c1885ef0:
-
     # "比尔在我面前摆出了一个动作，我依葫芦画瓢地做着。"
-    ""
+    "Bill demonstrated a stance in front of me, and I mimicked his actions."
 
 # game/charpter1A.rpy:1633
 translate en_US charpter1A_6_qte_22a4231e:
-
     # bill "手臂要绷紧，提臂要直，手要握紧枪把。"
-    bill ""
+    bill "Your arm should be tense, keep your arm straight, and grip the gun firmly."
 
 # game/charpter1A.rpy:1635
 translate en_US charpter1A_6_qte_fc3bc052:
-
     # "比尔放下手中的枪，来到了我的身后，紧贴着我的身体手把手地教我。"
-    ""
+    "Bill put down his gun and came behind me, closely guiding me through each step."
 
 # game/charpter1A.rpy:1636
 translate en_US charpter1A_6_qte_4b6c1852:
-
     # bill "虎口不要靠上，要贴紧握把，不然容易受伤。"
-    bill ""
+    bill "The web of your hand shouldn't be too close; it should press firmly against the grip, otherwise, you might get hurt."
 
 # game/charpter1A.rpy:1637
 translate en_US charpter1A_6_qte_e9fd4388:
-
     # "比尔就这样紧贴着，一步步矫正着我的动作。"
-    ""
+    "Bill was closely aligned with me, correcting my movements step by step."
 
 # game/charpter1A.rpy:1638
 translate en_US charpter1A_6_qte_62f7884d:
-
     # "我能感觉到他说话时，鼻息喷在我后颈上带来不适感，也能感觉到比尔身体和手掌的温热，甚至还能闻到比尔身上淡淡的柠檬味。"
-    ""
+    "I could feel his breath on my neck, which was uncomfortable, and the warmth of Bill's body and hands. I could even smell a faint lemon scent from him."
 
 # game/charpter1A.rpy:1639
 translate en_US charpter1A_6_qte_baca0537:
-
     # "但最大的问题是——比尔不能明说的部位正紧贴着我！"
-    ""
+    "But the biggest problem was—Bill's not-so-mentionable parts were pressed right against me!"
 
 # game/charpter1A.rpy:1645
 translate en_US charpter1A_6_qte_3e251579:
-
     # bill "专心点。"
-    bill ""
+    bill "Focus."
 
 # game/charpter1A.rpy:1647
 translate en_US charpter1A_6_qte_506c2139:
-
     # you "哦，好！"
-    you ""
+    you "Oh, okay!"
 
 # game/charpter1A.rpy:1649
 translate en_US charpter1A_6_qte_459a7ed5:
-
     # "我努力的地集中精神，但收效见微。"
-    ""
+    "I tried hard to concentrate, but the results were minimal."
 
 # game/charpter1A.rpy:1650
 translate en_US charpter1A_6_qte_f3a2433b:
-
     # bill "瞄准的时候照门准星和目标要保持一线，扣扳机要指腹用力。"
-    bill ""
+    bill "When aiming, make sure the sight and the target are aligned, and pull the trigger with the pad of your finger."
 
 # game/charpter1A.rpy:1651
 translate en_US charpter1A_6_qte_44bab6ac:
-
     # "比尔的手掌包裹着我的手掌，一点点调整着我手指在扳机上的位置。"
-    ""
+    "Bill's hand enveloped mine, gradually adjusting my finger's position on the trigger."
 
 # game/charpter1A.rpy:1652
 translate en_US charpter1A_6_qte_236ba699:
-
     # bill "你现在试试。"
-    bill ""
+    bill "Now you try."
 
 # game/charpter1A.rpy:1656
 translate en_US charpter1A_6_qte_ccc8a931:
-
     # "比尔说完就离开了我的身后，我竟然对其有一点不舍。"
-    ""
+    "After Bill finished speaking, he left me behind, and I found myself feeling a bit reluctant."
 
 # game/charpter1A.rpy:1657
 translate en_US charpter1A_6_qte_9b793804:
-
     # "我晃了晃头，把杂念都抛了出去。"
-    ""
+    "I shook my head to clear my mind of distractions."
 
 # game/charpter1A.rpy:1658
 translate en_US charpter1A_6_qte_0c777ddc:
-
     # "我回忆着比尔指导的每一步，慢慢地调整自己的姿态。"
-    ""
+    "I recalled each step Bill had taught me and slowly adjusted my posture."
 
 # game/charpter1A.rpy:1660
 translate en_US charpter1A_6_qte_3cea2721:
-
     # "伴随着一声轰鸣，我的手上传来了一阵强大的反作用力，幸好比尔事先提醒了我，不然手里的枪肯定会飞出去。"
-    ""
+    "With a loud bang, a powerful recoil hit my hand. Fortunately, Bill had warned me beforehand, or the gun would have flown out of my hand."
 
 # game/charpter1A.rpy:1661
 translate en_US charpter1A_6_qte_302b5dcb:
-
     # "我看向对面的靶子，只是勉勉强强打到了靶子上。"
-    ""
+    "I looked at the target across from me and barely managed to hit it."
 
 # game/charpter1A.rpy:1663
 translate en_US charpter1A_6_qte_abbe75ac:
-
     # bill "你做的很好，只需要多练就行。"
-    bill ""
+    bill "You did well. Just need more practice."
 
 # game/charpter1A.rpy:1664
 translate en_US charpter1A_6_qte_b4a6d621:
-
     # "真的很好吗？比尔这是在安慰我吧。"
-    ""
+    "Really good? Bill must be comforting me."
 
 # game/charpter1A.rpy:1666
 translate en_US charpter1A_6_qte_6dfd9b5a:
-
     # "剩下的时间里，比尔一直在梦境里陪着我练枪，偶尔也会贴身指导我一些姿势上的错误。"
-    ""
+    "For the rest of the time, Bill stayed in the dream with me, practicing shooting and occasionally correcting my posture mistakes."
 
 # game/charpter1A.rpy:1667
 translate en_US charpter1A_6_qte_c6648613:
-
     # "虽然一开始很不习惯，但我还是适应了。"
-    ""
+    "Although it was quite unusual at first, I eventually got used to it."
 
 # game/charpter1A.rpy:1668
 translate en_US charpter1A_6_qte_cc431604:
-
     # "再加上梦境里我不会感到累，练习很快就有了成果，至少我能稳定不脱靶了。"
-    ""
+    "Moreover, since I don't feel tired in the dream, the practice quickly showed results. At least I could shoot steadily without missing."
 
 # game/charpter1A.rpy:1670
 translate en_US charpter1A_6_qte_6809f37b:
-
     # "等到我离开比尔梦境的时候，已经是凌晨1点了。"
-    ""
+    "By the time I left Bill's dream, it was already 1 a.m."
 
 # game/charpter1A.rpy:1671
 translate en_US charpter1A_6_qte_a3be8a48:
-
     # "看来梦里的时间和现实相差蛮大。"
-    ""
+    "It seems that time in dreams differs quite a bit from reality."
 
 # game/charpter1A.rpy:1673
 translate en_US charpter1A_6_qte_d0d75b2f:
-
     # "和比尔互道晚安后，我回到了自己的房间。"
-    ""
+    "After saying goodnight to Bill, I returned to my room."
 
 # game/charpter1A.rpy:1674
 translate en_US charpter1A_6_qte_7eee66c8:
-
     # "躺在床上，我因为第一次主动学会运用自己的能力而亢奋不已。"
-    ""
+    "Lying in bed, I was exhilarated by the fact that I had actively learned to use my abilities for the first time."
 
 # game/charpter1A.rpy:1675
 translate en_US charpter1A_6_qte_205950c1:
-
     # "要不要再多试试？"
-    ""
+    "Should I try again?"
 
 # game/charpter1A.rpy:1676
 translate en_US charpter1A_6_qte_eb77947e:
-
     # "我突然冒出了这样的想法……"
-    ""
+    "I suddenly had this thought..."
 
 # game/charpter1A.rpy:1677
 translate en_US charpter1A_6_qte_b0d73999:
-
     # "这个想法一出来，就一直在我脑海里徘徊。"
-    ""
+    "Once the thought came to mind, it kept lingering in my head."
 
 # game/charpter1A.rpy:1678
 translate en_US charpter1A_6_qte_1be0287b:
-
     # "嗯……再试试好了！比尔应该不会怪我的！"
-    ""
+    "Hmm... I'll try again! Bill probably won't mind!"
 
 # game/charpter1A.rpy:1680
 translate en_US charpter1A_6_qte_59618288:
-
     # "我闭上眼睛，轻车熟路地操控着“以太”将我的灵魂从身体脱离。"
-    ""
+    "I closed my eyes and skillfully used 'Ether' to detach my soul from my body."
 
 # game/charpter1A.rpy:1682
 translate en_US charpter1A_6_qte_c259636c:
-
     # "我又一次漂浮在了自己的身体上方。"
-    ""
+    "Once again, I floated above my own body."
 
 # game/charpter1A.rpy:1683
 translate en_US charpter1A_6_qte_870cac09:
-
     # "在有了两次离体经历后，我已经可以比较熟练地控制自己去想去的任何地方。"
-    ""
+    "After two out-of-body experiences, I could now control myself more skillfully to go anywhere I wanted."
 
 # game/charpter1A.rpy:1686
 translate en_US charpter1A_6_qte_53675a56:
-
     # "我飞快的越过房门，来到了客厅，沙发上是依旧被“以太”包围着的比尔。"
-    ""
+    "I quickly floated past the door and into the living room, where Bill was still surrounded by 'Ether' on the sofa."
 
 # game/charpter1A.rpy:1687
 translate en_US charpter1A_6_qte_17d72bd0:
-
     # "这次我可不会再进去比尔的梦了！虽然他大概不会打我，但是责备应该是免不了的。"
-    ""
+    "This time, I won't enter Bill's dream again! Although he probably won't hit me, I'm sure he will scold me."
 
 # game/charpter1A.rpy:1688
 translate en_US charpter1A_6_qte_961b6ade:
-
     # "我径直飘过了客厅，然后从阳台上一跃而下……"
-    ""
+    "I floated straight through the living room and leaped off the balcony..."
 
 # game/charpter1A.rpy:1690
 translate en_US charpter1A_6_qte_e8cb58ef:
-
     # "既然我现在是漂浮的状态，那干嘛还需要走门……"
-    ""
+    "Since I'm floating now, why bother with doors..."
 
 # game/charpter1A.rpy:1692
 translate en_US charpter1A_6_qte_52a33e8f:
-
     # "夜晚的城市，依旧是那么灯红通明……"
-    ""
+    "The city at night was still so brightly lit..."
 
 # game/charpter1A.rpy:1693
 translate en_US charpter1A_6_qte_a3e9a517:
-
     # "我操控着自己向着更远飘去，试探着灵魂能离开自己身体多远。"
-    ""
+    "I controlled myself to float further away, testing how far my soul could detach from my body."
 
 # game/charpter1A.rpy:1694
 translate en_US charpter1A_6_qte_82107401:
-
     # "100米、200米、500米……"
-    ""
+    "100 meters, 200 meters, 500 meters..."
 
 # game/charpter1A.rpy:1696
 translate en_US charpter1A_6_qte_4fa7e9ea:
-
     # "在距离自己的身体大概三公里的地方时，我触碰到了边界。"
-    ""
+    "When I was about three kilometers from my body, I reached the boundary."
 
 # game/charpter1A.rpy:1697
 translate en_US charpter1A_6_qte_44c1ea53:
-
     # "在边界以内时，我没有任何感觉，但我的灵魂一旦离开了边界，就会立刻感到虚弱无力。"
-    ""
+    "Within the boundary, I felt nothing, but as soon as my soul crossed it, I immediately felt weak and powerless."
 
 # game/charpter1A.rpy:1698
 translate en_US charpter1A_6_qte_abe695b4:
-
     # "超出边界越远，感受就越强烈。"
-    ""
+    "The further I went beyond the boundary, the more intense the sensation became."
 
 # game/charpter1A.rpy:1699
 translate en_US charpter1A_6_qte_be282701:
-
     # "试探过程中还有一点意外收获：如果我靠近了我接触过的某个人，以太就会为我标记出这个人的位置。"
-    ""
+    "I also discovered an unexpected bonus: if I get close to someone I've interacted with, 'Ether' will mark their location for me."
 
 # game/charpter1A.rpy:1700
 translate en_US charpter1A_6_qte_32353e14:
-
     # "幸好布莱恩住的地方不算远，不然我肯定不能发现这个能力。"
-    ""
+    "Fortunately, Brian's place isn't too far, or I might not have discovered this ability."
 
 # game/charpter1A.rpy:1703
 translate en_US charpter1A_6_qte_142bb83b:
-
     # "我在布莱恩梦里看到了一只小鬣狗。"
-    ""
+    "I saw a small hyena in Brian's dream."
 
 # game/charpter1A.rpy:1704
 translate en_US charpter1A_6_qte_e65962bb:
-
     # "他有点可爱，不过好凶啊，是布莱恩的朋友吗？"
-    ""
+    "It's kind of cute, but really fierce. Is it Brian's friend?"
 
 # game/charpter1A.rpy:1706
 translate en_US charpter1A_6_qte_44656ae5:
-
     # "我一边想着，一边往自己家飘去，在外面逛了那么久，我也该真正睡觉了！"
-    ""
+    "As I thought about it, I floated back home. After being out for so long, I should actually get some sleep!"
 
 # game/charpter1A.rpy:1707
 translate en_US charpter1A_6_qte_488e8fcf:
-
     # "嗯？怎么又有标记？难道是罗威逊局长？？"
-    ""
+    "Hmm? Another mark? Could it be Director Robinson??"
 
 # game/charpter1A.rpy:1709
 translate en_US charpter1A_6_qte_3b01db90:
-
     # "不，不太对，这个标记好像很远……而且让我感到有些异样。"
-    ""
+    "No, something's off. This mark seems very far away... and feels a bit strange."
 
 # game/charpter1A.rpy:1710
 translate en_US charpter1A_6_qte_c2f3cbad:
-
     # "……这个感觉，是今天那头变色龙！呃……或者一坨血肉！"
-    ""
+    "...This feeling, it's from that chameleon today! Uh... or maybe a lump of flesh!"
 
 # game/charpter1A.rpy:1711
 translate en_US charpter1A_6_qte_d2df11b6:
-
     # "一瞬间，我打消了回家的想法，现在还不确定那家伙到底在哪里，就算回去和比尔说也根本不知道往哪里找！"
-    ""
+    "In an instant, I abandoned the idea of going home. I still wasn't sure where that thing was, and even if I went back to tell Bill, I wouldn't know where to look!"
 
 # game/charpter1A.rpy:1712
 translate en_US charpter1A_6_qte_f3d06cde:
-
     # "还是我一个先看看具体位置吧，反正现在的我应该不会有任何的危险……"
-    ""
+    "I'll check the exact location myself. Anyway, I should be safe at the moment..."
 
 # game/charpter1A.rpy:1713
 translate en_US charpter1A_6_qte_8336a8eb:
-
     # "抱着这样的想法，我跟着“以太”标记指引的方向飘去。"
-    ""
+    "With that thought in mind, I floated in the direction indicated by the 'Ether' mark."
 
 # game/charpter1A.rpy:1715
 translate en_US charpter1A_6_qte_442941ca_4:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:1717
 translate en_US charpter1A_6_qte_442941ca_5:
-
     # "……"
-    ""
+    "..."
 
 # game/charpter1A.rpy:1718
 translate en_US charpter1A_6_qte_49a1d00d:
-
     # "我停在边界处，有些苦恼地看着依旧为我指引着方向的标记。"
-    ""
+    "I stopped at the boundary, looking distressed at the mark that still pointed the way."
 
 # game/charpter1A.rpy:1719
 translate en_US charpter1A_6_qte_d782bf80:
-
     # "看来标记并不局限于我能自由移动的范围，要继续跟下去吗？但是再继续下去，就要超出安全范围了啊！"
-    ""
+    "It seems the mark isn't limited to my free movement range. Should I continue following it? But going further will exceed the safe range!"
 
 # game/charpter1A.rpy:1720
 translate en_US charpter1A_6_qte_bb15dbc1:
-
     # "之前只是虚弱，难受，但万一后面程度更加严重了呢？！"
-    ""
+    "Before it was just weakness and discomfort, but what if it gets worse later?!"
 
 # game/charpter1A.rpy:1721
 translate en_US charpter1A_6_qte_5899992a:
-
     # "我的脑海里闪过比尔那副痛苦的表情。"
-    ""
+    "Bill's pained expression flashed through my mind."
 
 # game/charpter1A.rpy:1722
 translate en_US charpter1A_6_qte_dc64e1b8:
-
     # "不管了！先跟着再说！大不了快受不了的时候再回来！"
-    ""
+    "Forget it! I'll follow it for now! If it gets too much, I can always come back!"
 
 # game/charpter1A.rpy:1723
 translate en_US charpter1A_6_qte_a426a03d:
-
     # "我自言自语地说服自己。"
-    ""
+    "I reassured myself out loud."
 
 # game/charpter1A.rpy:1724
 translate en_US charpter1A_6_qte_00ced12d:
-
     # "我一咬牙继续向跟上标记。"
-    ""
+    "I gritted my teeth and continued to follow the mark."
 
 # game/charpter1A.rpy:1726
 translate en_US charpter1A_6_qte_4a8c505f:
-
     # "……虚弱……恶心……时不时出现的头痛……随着距离越来越远，在我身上出现的症状也越来越严重。"
-    ""
+    "… Weakness… Nausea… Occasional headaches… As the distance increased, the symptoms affecting me grew more severe."
 
 # game/charpter1A.rpy:1729
 translate en_US charpter1A_6_qte_a4e0a477:
-
     # "就当我快要放弃的时候，我终于看见了那头变色龙！"
-    ""
+    "Just as I was about to give up, I finally saw the chameleon!"
 
 # game/charpter1A.rpy:1730
 translate en_US charpter1A_6_qte_5717051f:
-
     # "他正躲在一栋废弃的楼房里。"
-    ""
+    "It was hiding in an abandoned building."
 
 # game/charpter1A.rpy:1731
 translate en_US charpter1A_6_qte_2d11bd78:
-
     # "他的身体已经变回了我第一次见他时的样子，只是身上已经还残留着肉芽生长的痕迹。"
-    ""
+    "Its body had returned to the form I first saw, but it still bore traces of the flesh growths."
 
 # game/charpter1A.rpy:1732
 translate en_US charpter1A_6_qte_a43fa109:
-
     # "他现在状态似乎很不好，即使在睡梦中，也皱紧眉头，死死的咬紧牙关。"
-    ""
+    "It seemed in a bad state now, even in sleep, with its brow furrowed and teeth clenched tightly."
 
 # game/charpter1A.rpy:1733
 translate en_US charpter1A_6_qte_5a50f24f:
-
     # "虽然现在按理说没有人能看见和接触到我，但我还是小心翼翼地向他靠近。"
-    ""
+    "Although theoretically no one should be able to see or interact with me, I still approached it cautiously."
 
 # game/charpter1A.rpy:1734
 translate en_US charpter1A_6_qte_d9cbb13a:
-
     # "毕竟，他今天下午那副模样确确实实吓到我了！"
-    ""
+    "After all, its appearance this afternoon really scared me!"
 
 # game/charpter1A.rpy:1735
 translate en_US charpter1A_6_qte_8b8d21c2:
-
     # "我突然感觉从远方传来了一股巨大的吸引力，我能感觉到那是我自己的身体在召唤我。"
-    ""
+    "I suddenly felt a powerful pull from afar, sensing it was my own body calling me back."
 
 # game/charpter1A.rpy:1736
 translate en_US charpter1A_6_qte_47bc45c3:
-
     # "我离开的太久太远了！"
-    ""
+    "I had been away for too long and too far!"
 
 # game/charpter1A.rpy:1737
 translate en_US charpter1A_6_qte_21aa436f:
-
     # "我拼命抵抗着这股吸引力，同时努力想要记住周围的环境。"
-    ""
+    "I struggled against the pull while trying hard to remember the surrounding environment."
 
 # game/charpter1A.rpy:1738
 translate en_US charpter1A_6_qte_bb8a09e5:
-
     # "值得庆幸的是，我成功了！"
-    ""
+    "Fortunately, I succeeded!"
 
 # game/charpter1A.rpy:1739
 translate en_US charpter1A_6_qte_2a61aadf:
-
     # "在我因为成功而有些松懈的时候，那股吸引力突然加大了，这让我有些措不及防。"
-    ""
+    "Just as I relaxed from my success, the pull suddenly intensified, catching me off guard."
 
 # game/charpter1A.rpy:1740
 translate en_US charpter1A_6_qte_4fb7fb2a:
-
     # "在这种情况下，我不小心触碰到了变色龙……"
-    ""
+    "In this situation, I accidentally touched the chameleon..."
 
 # game/charpter1A.rpy:1743
 translate en_US charpter1A_6_qte_e94e62ef:
-
     # savvy "只要你去管置局把抑制剂偷出来，我就给你诱导剂成品。"
-    savvy ""
+    savvy "As long as you steal the suppressor from the Control Bureau, I'll give you the complete inducement agent."
 
 # game/charpter1A.rpy:1744
 translate en_US charpter1A_6_qte_6067f74d:
-
     # "那家伙是谁？？为什么会扯上管置局和抑制剂？！"
-    ""
+    "Who is that person?? Why is the Control Bureau and suppressor involved?!"
 
 # game/charpter1A.rpy:1745
 translate en_US charpter1A_6_qte_79932bcf:
-
     # "该死，只能听到声音，看不清人脸！"
-    ""
+    "Damn, I can only hear the voice and can't see the face!"
 
 # game/charpter1A.rpy:1748
 translate en_US charpter1A_6_qte_b99bc157:
-
     # "当我想要听听更多信息时，我开始感觉整个世界都在颠倒旋转起来。"
-    ""
+    "When I tried to listen for more information, I began to feel like the entire world was spinning and turning upside down."
 
 # game/charpter1A.rpy:1750
 translate en_US charpter1A_6_qte_a55cad6b:
-
     # "当我重新睁开眼时，映入我眼帘是房间的天花板，伴随而来的是剧烈的头痛和鼻子涌出的鲜血。"
-    ""
+    "When I opened my eyes again, the ceiling of the room was in view, accompanied by a severe headache and blood flowing from my nose."
 
 # game/charpter1A.rpy:1751
 translate en_US charpter1A_6_qte_de1c3d3f:
-
     # "但这个时候顾不上这么多了！"
-    ""
+    "But there was no time to worry about that now!"
 
 # game/charpter1A.rpy:1752
 translate en_US charpter1A_6_qte_d926c50d:
-
     # "必须要马上告诉比尔，那只变色龙的位置，以及梦境里我听到的话！"
-    ""
+    "I must tell Bill immediately about the chameleon's location and what I heard in the dream!"
 
 # game/charpter1A.rpy:1754
 translate en_US charpter1A_6_qte_2dc2ba07:
-
     # "我忍耐着越发严重的疼痛，冲出了房门，叫醒了比尔。"
-    ""
+    "Enduring the worsening pain, I burst out of the room and woke up Bill."
 
 # game/charpter1A.rpy:1756
 translate en_US charpter1A_6_qte_da343621:
-
     # you "比尔！我说你听，情况紧急！"
-    you ""
+    you "Bill! Listen to me, it's an emergency!"
 
 # game/charpter1A.rpy:1757
 translate en_US charpter1A_6_qte_b0931ee5:
-
     # you "变色龙现在在渡江大桥西侧的废弃厂房，快去找人抓他。"
-    you ""
+    you "The chameleon is now in the abandoned factory west of the Bridge of Crossing. Get people to catch it quickly."
 
 # game/charpter1A.rpy:1758
 translate en_US charpter1A_6_qte_0ef26f15:
-
     # you "我在他的梦里看到了，有人委托他偷取管置局的抑制剂。"
-    you ""
+    you "I saw in its dream that someone commissioned it to steal the suppressor from the Control Bureau."
 
 # game/charpter1A.rpy:1759
 translate en_US charpter1A_6_qte_59789b7b:
-
     # you "我看不清他的脸，不过那个人还提到了诱导……"
-    you ""
+    you "I couldn't see their face, but that person also mentioned inducement..."
 
 # game/charpter1A.rpy:1761
 translate en_US charpter1A_6_qte_71ae5b36:
-
     # "我的身体撑到了极限，话还没有说完，我的意识就消失了。"
-    ""
+    "My body reached its limit. Before I could finish speaking, my consciousness faded."
 
 # game/charpter1A.rpy:1763
 translate en_US charpter1A_6_qte_582ff199:
-
     # "最后停留在我视线里的，是比尔震惊的面庞。"
-    ""
+    "The last thing I saw was Bill's shocked face."
 
 # game/charpter1A.rpy:1766
 translate en_US charpter1A_6_qte_595e115f:
-
     # "第一章结束，感谢观看。"
-    ""
+    "Chapter 1 ends. Thank you for watching."
 
 translate en_US strings:
 
     # game/charpter1A.rpy:1087
     old "重新挑战"
-    new ""
+    new "Retry"
+
+    old "跳过去！"
+    new "Jump over it!"
+
+    old "跟上去！"
+    new "Keep up!"
+
+    old "越过去！"
+    new "Leap over!"
 
