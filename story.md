@@ -15,3 +15,9 @@ Lost memories: after the "incidence", MC is imprisoned forever in the dream worl
 
 In the final battle of MC and ML for ML to determine whether to release MC back to the real world, MC will try what he did in the dreamworld (do actions to spare enemies), but ML is the real person and won't act according to MC's wish. MC won't be able to perform any actions. Finally, MC will break down crying, ML will hug him, saying 'farewell' and turn into light particles and fades away (dying enemies will turn into light particles and fades away, in contrast to undertale monsters turning into dust) (of course ML won't really die, he "dies" in the dreamworld but will leave the dreamworld). MC will stay in the dreamworld, now knowing that it was all a dream, that this isn't his escapism, that the only chance to him to be free is gone forever, and most of all he will be lonely again. At the end MC realizes that he needs ML, he feels happy because the ML is here, MC wants ML companion more than ML will save him. 
 
+
+# Common route / normal route
+Future prediction. What happen when you change the past is future prediction.
+Emotion: love & fear. Discard your emotion, discard your fear, ignore what will happen in the future.
+Is predicting the future and take actions to prevent it a good thing? What about self-fulfilling prophecy? What about fate? Fate is enforced by people with authority, to remove uncertainty, to predict the future better, to keep the power to themselves.
+Cultivation. Understand the basic rules of the universe. Tribulation and transcension. In the simulated world, the basic rules are the will of dream lord, the only way to escape is by the will of the true god, so the only way out is to understand his heart and find a way to convince him to let you out
